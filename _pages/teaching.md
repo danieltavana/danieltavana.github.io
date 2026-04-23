@@ -7,6 +7,14 @@ nav: true
 nav_order: 4
 ---
 
+<style>
+details { margin-bottom: 1.25rem; }
+details summary { padding: 0.25rem 0; cursor: pointer; }
+details[open] summary { margin-bottom: 0.5rem; }
+h2 { margin-top: 2.5rem; }
+h3 { margin-top: 1.75rem; margin-bottom: 1rem; }
+</style>
+
 ## Penn State
 
 ### Fall 2025
