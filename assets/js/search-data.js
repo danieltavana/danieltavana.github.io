@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -73,7 +73,7 @@ ninja.data = [{
                 window.location.href = "/legislative-data/";
               },
             },{id: "nav-teaching",
-          title: "teaching",
+          title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
