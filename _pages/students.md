@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /students/
-title: students
+title: Students
 description: Graduate students I advise.
 nav: true
 nav_order: 5
