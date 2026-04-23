@@ -80,7 +80,7 @@ ninja.data = [{
             window.location.href = "/teaching/";
           },
         },{id: "nav-students",
-          title: "students",
+          title: "Students",
           description: "Graduate students I advise.",
           section: "Navigation",
           handler: () => {
