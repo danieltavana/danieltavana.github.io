@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <style>
-details { margin-bottom: 1.25rem; }
+details { margin-bottom: 0.5rem; }
 details summary { padding: 0.25rem 0; cursor: pointer; }
 details[open] summary { margin-bottom: 0.5rem; }
 h2 { margin-top: 2.5rem; }
