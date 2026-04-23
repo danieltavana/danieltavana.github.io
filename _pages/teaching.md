@@ -2,14 +2,29 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description:
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Current courses at Penn State
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+[TODO: list current courses with catalog numbers and short descriptions. Your current site had entries on Middle East politics, Islamic political thought, democratization, and quantitative research methods — pull those over.]
 
-{% include courses.liquid %}
+**PLSC [###]: [Course Title]**
+[1–2 sentence description.]
+
+**PLSC [###]: [Course Title]**
+[1–2 sentence description.]
+
+---
+
+## Prior courses
+
+- [TODO: previously taught courses]
+
+---
+
+## Undergraduate research supervision
+
+I advise undergraduate students working on senior theses related to Middle East politics, comparative politics, political methodology, and authoritarian regimes. Prospective advisees are welcome to email me at [tavana@psu.edu](mailto:tavana@psu.edu).
