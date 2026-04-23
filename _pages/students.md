@@ -9,11 +9,6 @@ nav_order: 5
 
 I currently advise or serve on the dissertation committees of the following Penn State graduate students:
 
-- **[Viktar Siamionau](#)** — [TODO: dissertation topic in 1–2 sentences.]
-- **[Lindsay Walsh](#)** — [TODO: dissertation topic.]
-- **[Cihan Duran](#)** — [TODO: dissertation topic.]
-- **[Yasin Shafi](#)** — [TODO: dissertation topic.]
-- **[Hosun Jang](#)** — [TODO: dissertation topic.]
 
 [TODO: update with current affiliations, links to their websites, and fellowship/job placement info. Remove/add as needed.]
 
