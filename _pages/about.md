@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Assistant Professor of <a href="https://polisci.la.psu.edu/">Political Science</a>, Pennsylvania State University
 
