@@ -30,7 +30,7 @@ I can be reached at [tavana@psu.edu](mailto:tavana@psu.edu). You can also follow
 
 <!-- Google Calendar Appointment Scheduling -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<div id="gcal-scheduling-button"></div>
+<div id="gcal-scheduling-button" style="text-align: center; margin: 2rem 0;"></div>
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
 <script>
 (function() {
