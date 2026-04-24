@@ -2,7 +2,6 @@
 layout: page
 permalink: /reviews/
 title: Reviews
-description: Book reviews and review essays.
 nav: false
 ---
 
