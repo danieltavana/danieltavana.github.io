@@ -5,6 +5,15 @@ title: book project
 nav: false          # hidden from top nav — appears under Research dropdown
 ---
 
+<style>
+  .post p {
+    text-align: justify;
+    hyphens: auto;
+  }
+</style>
+
+# Opposition: How Ideology Disrupts Authoritarian Elections
+
 Elections are an essential component of democracy. Yet some form of electoral competition exists in nearly all the world's authoritarian regimes. A common view holds that non-democratic elections do not influence policymaking and rarely induce democratization---a view echoed by over two decades of research showing that elections help dictators stay in power. *Opposition* challenges this received wisdom by shifting focus away from dictators themselves and towards the actors, groups, and movements that oppose them. Elections may not generate democratization, but this book shows that they often generate powerful oppositions. This empirical observation requires a rethinking of the relationship between dictators, elections, and the oppositions they are designed to control.
 
 The book develops a theory of opposition that begins with a simple observation: the same electoral rules autocrats build to stay in power can, under certain conditions, give rise to the very oppositional forces they are designed to control. In other words, oppositions emerge from *within* the dynamics of electoral competition itself. Existing theories focus on how elections help dictators manage rivals, monitor dissent, and reward supporters. These accounts are not wrong, but they are incomplete. They cannot explain why so many authoritarian elections produce oppositions that persist and intensify over time, or why the tools autocrats deploy to tame oppositions so often fail. The book argues that answering these questions requires attending to two factors these theories largely neglect: identity and ideology. In societies where ethnic divisions run deep, dictators build electoral coalitions around ethnic majorities--leaving minority elites without a reliable path to power. Where elections are competitive enough and legislatures have real authority, these excluded elites respond by embracing ideological politics---aligning themselves publicly with movements that appeal to a variety of different ethnic groups. The logic is strategic: by staking their candidacies on ideas rather than ethnic loyalty, minority candidates can win votes from outside their ethnic group. But ideological attachments are not easily abandoned. Once in office, these legislators face strong pressure to deliver on their ideological commitments---and it is precisely this pressure that drives the confrontational legislative behavior at the heart of the book. That behavior takes many forms: voting against government legislation, forcing ministerial resignations, and using the tools of legislative oversight to challenge the dictator's policy agenda.
