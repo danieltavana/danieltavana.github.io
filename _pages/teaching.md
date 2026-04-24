@@ -2,7 +2,6 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description:
 nav: true
 nav_order: 4
 ---
@@ -31,7 +30,7 @@ nav_order: 4
   .course-meta li::before { content: "— "; position: absolute; left: 0; }
 </style>
 
-## Pennsylvania State University
+## <strong>Pennsylvania State University</strong>
 
 ### Fall 2025
 
