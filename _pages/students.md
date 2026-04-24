@@ -57,7 +57,7 @@ nav_order: 5
   }
 </style>
 
-## Current PhD Students
+### Current PhD Students
 
 <div class="student-list">
 
@@ -123,7 +123,7 @@ nav_order: 5
 
 </div>
 
-## Former PhD Students
+### Former PhD Students
 
 <div class="student-list">
 
