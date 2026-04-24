@@ -7,7 +7,7 @@ subtitle: Assistant Professor of <a href="https://polisci.la.psu.edu/">Political
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false
+  image_circular: true
   more_info: >
     <p><a href="mailto:tavana@psu.edu">tavana@psu.edu</a></p>
 
