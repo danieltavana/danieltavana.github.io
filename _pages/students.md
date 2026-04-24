@@ -2,7 +2,6 @@
 layout: page
 permalink: /students/
 title: Students
-description:
 nav: true
 nav_order: 5
 ---
@@ -67,7 +66,7 @@ nav_order: 5
   <div class="student-photo"><img src="/assets/img/students/fong.png" alt="Gary Fong"></div>
   <div class="student-info">
     <p class="header"><strong>Gary Fong</strong> | PhD in Political Science and Social Data Analytics</p>
-    <p><a href="https://polisci.la.psu.edu/people/cjf5914/" target="_blank" rel="noopener">https://polisci.la.psu.edu/people/cjf5914/</a></p>
+    <p><a href="https://sap98fcs.github.io/" target="_blank" rel="noopener">https://sap98fcs.github.io/</a></p>
     <p>Authoritarian politics, political communication, contentious politics</p>
   </div>
 </div>
@@ -76,7 +75,7 @@ nav_order: 5
   <div class="student-photo"><img src="/assets/img/students/walsh.png" alt="Lindsay Walsh"></div>
   <div class="student-info">
     <p class="header"><strong>Lindsay Walsh</strong> | PhD in Political Science and Women's, Gender, and Sexuality Studies</p>
-    <p><a href="https://polisci.la.psu.edu/people/sjw5658/" target="_blank" rel="noopener">https://polisci.la.psu.edu/people/sjw5658/</a></p>
+    <p><a href="https://saralindsay.org" target="_blank" rel="noopener">https://saralindsay.org/</a></p>
     <p>Gender and politics, political ambition, sex/gender quotas, electoral systems, representation</p>
   </div>
 </div>
@@ -94,6 +93,7 @@ nav_order: 5
   <div class="student-photo"><img src="/assets/img/students/kara.png" alt="Muhammad Kara"></div>
   <div class="student-info">
     <p class="header"><strong>Muhammad Kara</strong> | PhD in Higher Education</p>
+    <p><a href="https://hope.temple.edu/directory/muhammad-kara-phd" target="_blank" rel="noopener">https://hope.temple.edu/directory/muhammad-kara-phd</a></p>
     <p>Higher education policy, education and law, race and ethnicity, religion, belonging</p>
   </div>
 </div>
