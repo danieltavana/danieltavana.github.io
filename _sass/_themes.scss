@@ -225,3 +225,25 @@ article a:hover {
 .navbar-nav .nav-item.active {
   color: inherit !important;
 }
+
+/* Remove shadow on profile photo */
+.profile img {
+  box-shadow: none !important;
+}
+
+/* Thin border ring around profile photo and student photos */
+.profile img,
+.student-photo {
+  border: 1px solid var(--global-text-color);
+}
+
+/* Thin border ring — pure black / pure white */
+.profile img,
+.student-photo {
+  border: 1px solid black;
+}
+
+html[data-theme="dark"] .profile img,
+html[data-theme="dark"] .student-photo {
+  border-color: white;
+}
