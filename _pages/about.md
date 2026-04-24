@@ -8,8 +8,6 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: true
-  more_info: >
-    <p><a href="mailto:tavana@psu.edu">tavana@psu.edu</a></p>
 
 selected_papers: false
 news: false
