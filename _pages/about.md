@@ -18,6 +18,9 @@ social: true
     text-align: justify;
     hyphens: auto;
   }
+  #gcal-scheduling-button > div {
+    display: inline-block !important;
+  }
 </style>
 
 Welcome! I am an Assistant Professor of [Political Science](https://polisci.la.psu.edu/) at Penn State. My primary research agenda involves the collection of original survey, electoral, and legislative data to better understand the conditions under which opposition elites succeed in authoritarian elections. My secondary research interests explore related questions in the fields of comparative political behavior and identity and ethnic politics. I am also a specialist in Middle East and North African politics, with field experience in Egypt, Kuwait, Lebanon, and Tunisia. My research is animated by a broader interest in understanding the origins of contemporary patterns of mass politics and the dynamics of political opposition in the region.
