@@ -29,7 +29,7 @@ nav: false
   .course-meta li::before { content: "— "; position: absolute; left: 0; }
 </style>
 
-## Working Papers
+### Working Papers
 
 <details>
 <summary>Elizabeth Nugent, Alexandra Blackman, Nick Lotito, and Daniel L. Tavana. "The Social Legacies of Repression: Family, Friends, and Political Participation." <em>Revise & resubmit.</em></summary>
@@ -65,7 +65,7 @@ nav: false
 </ul>
 </details>
 
-## In Progress
+### In Progress
 
 <details>
 <summary>Mostafa El Sharkawi and Daniel L. Tavana. "Religious Calendars and Legislative Behavior in an Authoritarian Parliament."</summary>
