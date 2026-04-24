@@ -34,6 +34,9 @@ nav: false
 <details>
 <summary>Elizabeth Nugent, Alexandra Blackman, Nick Lotito, and Daniel L. Tavana. "The Social Legacies of Repression: Family, Friends, and Political Participation." <em>Revise & resubmit.</em></summary>
 <p>Existing scholarship on the legacies of state violence treats families as the primary vehicles through which repression shapes political behavior. Yet individuals are embedded in multiple social groups; a robust literature shows that both kin and non-kin relationships are consequential for political socialization. This paper examines the comparative effects of direct repression and the repression of family members, friends, and community members on subsequent political behavior. We draw on an original nationally representative survey of 1,200 adult Tunisians, supplemented by a targeted sample of 175 sibling pairs. We find that individuals who reported themselves or family members as repressed under the Ben Ali and Bourguiba dictatorships (1956–2010) are significantly more likely to report protest participation in the past year. Those who reported repressed friends and community members are more likely to report both recent protest attendance and electoral turnout. Analyses of the sibling pairs show that the relationship between repression of friends and communities and protest participation remains significant when controlling for unobservable family characteristics. Additional analyses indicate that, similar to family socialization, political discussion with friends is a key mechanism through which repression's behavioral effects are transmitted. Taken together, these findings suggest that scholars who focus narrowly on familial networks risk underestimating the broader reach of repression's political legacies.</p>
+<ul class="course-meta">
+  <li><a href="https://osf.io/preprints/socarxiv/ad2u5_v1" target="_blank" rel="noopener">Working paper</a></li>
+</ul>
 </details>
 
 <details>
