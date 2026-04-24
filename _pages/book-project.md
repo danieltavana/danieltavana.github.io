@@ -25,13 +25,14 @@ nav: false          # hidden from top nav — appears under Research dropdown
     margin: 0 auto;
   }
   figcaption {
-    font-style: italic;
-    font-size: 0.9rem;
-    line-height: 1.4;
-    color: var(--global-text-color-light);
-    margin-top: 0.75rem;
-    text-align: left;
-  }
+  font-style: italic;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: var(--global-text-color-light);
+  margin-top: 0.75rem;
+  text-align: justify;
+  hyphens: auto;
+}
 </style>
 
 # Opposition: How Ideology Disrupts Authoritarian Elections
