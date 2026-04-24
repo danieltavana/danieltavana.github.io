@@ -30,7 +30,7 @@ nav_order: 4
   .course-meta li::before { content: "— "; position: absolute; left: 0; }
 </style>
 
-## <strong>Pennsylvania State University</strong>
+## Pennsylvania State University
 
 ### Fall 2025
 
