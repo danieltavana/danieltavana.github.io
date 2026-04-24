@@ -247,12 +247,21 @@ html[data-theme="dark"] .profile img,
 html[data-theme="dark"] .student-photo {
   border-color: white;
 }
-
-/* Reading progress bar — black in light mode, white in dark mode */
+/* Reading progress bar — black light, white dark */
+#progress,
+#progress-bar,
+.progress-bar,
+.progress-container,
 .progress-container .progress-bar {
   background: black !important;
+  background-color: black !important;
 }
 
+html[data-theme="dark"] #progress,
+html[data-theme="dark"] #progress-bar,
+html[data-theme="dark"] .progress-bar,
+html[data-theme="dark"] .progress-container,
 html[data-theme="dark"] .progress-container .progress-bar {
   background: white !important;
+  background-color: white !important;
 }
