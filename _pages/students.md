@@ -111,6 +111,16 @@ nav_order: 5
   </div>
 </div>
 
+<div class="student">
+  <div class="student-photo"><img src="/assets/img/students/duran.png" alt="Cihan Duran"></div>
+  <div class="student-info">
+    <p class="header"><strong>Cihan Duran</strong></p>
+    <p>PhD in Political Science and Social Data Analytics</p>
+    <p><a href="https://kadircihanduran.github.io/" target="_blank" rel="noopener">https://kadircihanduran.github.io/</a></p>
+    <p>Social movements, social media, competitive authoritarian regimes, network analysis, graph neural networks</p>
+  </div>
+</div>
+
 </div>
 
 ## Former PhD Students
