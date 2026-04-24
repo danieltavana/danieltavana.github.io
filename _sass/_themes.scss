@@ -207,18 +207,21 @@ html[data-theme-setting="light"] {
   color: var(--global-theme-color);
 }
 
-/* Underline external links in body content only */
-.post a[href^="http"],
-.post a[href^="https"],
-article a[href^="http"],
-article a[href^="https"] {
+/* Underline all body-content links, inherit text color */
+.post a,
+article a {
   color: inherit;
   text-decoration: underline;
 }
 
-.post a[href^="http"]:hover,
-.post a[href^="https"]:hover,
-article a[href^="http"]:hover,
-article a[href^="https"]:hover {
+.post a:hover,
+article a:hover {
   color: inherit;
+}
+
+/* Keep active navbar item the same color as inactive items */
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-item.active {
+  color: inherit !important;
 }
