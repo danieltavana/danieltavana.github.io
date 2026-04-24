@@ -102,7 +102,7 @@ nav_order: 5
   <div class="student-photo"><img src="/assets/img/students/atac.png" alt="Enes Atac"></div>
   <div class="student-info">
     <p class="header"><strong>Enes Atac</strong> | PhD in Sociology and Social Data Analytics</p>
-    <p><a href="https://ienesatac.com/" target="_blank" rel="noopener">https://ienesatac.com/</a></p>
+    <p><a href="https://enesatac.com/" target="_blank" rel="noopener">https://enesatac.com/</a></p>
     <p>Political sociology, migration, religion, intergroup relations, computational social science</p>
   </div>
 </div>
@@ -117,7 +117,7 @@ nav_order: 5
   <div class="student-photo"><img src="/assets/img/students/karimi.png" alt="Younes Karimi"></div>
   <div class="student-info">
     <p class="header"><strong>Younes Karimi</strong> | PhD in Informatics</p>
-    <p><a href="https://younes-karimi.github.io/" target="_blank" rel="noopener">https://younes-karimi.github.io/</a></p>
+    <p><a href="https://github.com/younes-karimi" target="_blank" rel="noopener">https://github.com/younes-karimi</a></p>
     <p>Machine learning, natural language processing and audio processing models, authoritarian propaganda, extremist groups</p>
   </div>
 </div>
