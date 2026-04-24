@@ -30,9 +30,9 @@ nav_order: 4
   .course-meta li::before { content: "— "; position: absolute; left: 0; }
 </style>
 
-## Pennsylvania State University
+### Pennsylvania State University
 
-### Fall 2025
+##### Fall 2025
 
 <details>
 <summary><strong>PLSC-501: Methods of Political Analysis</strong> (graduate)</summary>
@@ -52,7 +52,7 @@ nav_order: 4
 </ul>
 </details>
 
-### Fall 2024
+##### Fall 2024
 
 <details>
 <summary><strong>PLSC-501: Methods of Political Analysis</strong> (graduate)</summary>
@@ -72,7 +72,7 @@ nav_order: 4
 </ul>
 </details>
 
-### Spring 2024
+##### Spring 2024
 
 <details>
 <summary><strong>PLSC-550: Comparative Politics: Theory and Methodology</strong> (graduate)</summary>
@@ -92,7 +92,7 @@ nav_order: 4
 </ul>
 </details>
 
-### Spring 2023
+##### Spring 2023
 
 <details>
 <summary><strong>PLSC-552: Comparative Political Behavior</strong> (graduate)</summary>
@@ -112,7 +112,7 @@ nav_order: 4
 </ul>
 </details>
 
-### Fall 2022
+##### Fall 2022
 
 <details>
 <summary><strong>PLSC-497: Politics of the Contemporary Middle East and North Africa</strong> (undergraduate)</summary>
@@ -123,9 +123,9 @@ nav_order: 4
 </ul>
 </details>
 
-## Yale University
+### Yale University
 
-### Spring 2021
+##### Spring 2021
 
 <details>
 <summary><strong>MMES-316: Public Opinion and Political Behavior in the Middle East</strong> (undergraduate)</summary>
@@ -136,9 +136,9 @@ nav_order: 4
 </ul>
 </details>
 
-## Princeton University
+### Princeton University
 
-### Spring 2019
+##### Spring 2019
 
 <details>
 <summary><strong>POL-346: Applied Quantitative Analysis</strong>, with Omar Wasow (undergraduate)</summary>
@@ -149,7 +149,7 @@ nav_order: 4
 </ul>
 </details>
 
-### Spring 2017
+##### Spring 2017
 
 <details>
 <summary><strong>HIS-267 / NES-267: The Modern Middle East</strong>, with Max Weiss (undergraduate)</summary>
@@ -160,7 +160,7 @@ nav_order: 4
 </ul>
 </details>
 
-### Fall 2016
+##### Fall 2016
 
 <details>
 <summary><strong>NES-269 / POL-353: The Politics of Modern Islam</strong>, with Bernard Haykel (undergraduate)</summary>
@@ -171,9 +171,9 @@ nav_order: 4
 </ul>
 </details>
 
-## Harvard University
+### Harvard University
 
-### Spring 2012
+##### Spring 2012
 
 <details>
 <summary><strong>DPI-413: Challenges of Democratization</strong>, with Pippa Norris (graduate)</summary>
