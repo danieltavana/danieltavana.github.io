@@ -2,7 +2,6 @@
 layout: page
 permalink: /articles/
 title: Articles
-description: Peer-reviewed journal articles.
 nav: false
 ---
 
