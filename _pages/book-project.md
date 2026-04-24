@@ -12,6 +12,28 @@ nav: false          # hidden from top nav — appears under Research dropdown
   }
 </style>
 
+<style>
+  figure {
+    text-align: center;
+    margin: 2rem auto;
+    max-width: 700px;
+  }
+  figure img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  figcaption {
+    font-style: italic;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: var(--global-text-color-light);
+    margin-top: 0.75rem;
+    text-align: left;
+  }
+</style>
+
 # Opposition: How Ideology Disrupts Authoritarian Elections
 
 Elections are an essential component of democracy. Yet some form of electoral competition exists in nearly all the world's authoritarian regimes. A common view holds that non-democratic elections do not influence policymaking and rarely induce democratization---a view echoed by over two decades of research showing that elections help dictators stay in power. *Opposition* challenges this received wisdom by shifting focus away from dictators themselves and towards the actors, groups, and movements that oppose them. Elections may not generate democratization, but this book shows that they often generate powerful oppositions. This empirical observation requires a rethinking of the relationship between dictators, elections, and the oppositions they are designed to control.
