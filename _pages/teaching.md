@@ -76,7 +76,7 @@ nav_order: 4
 ### Spring 2024
 
 <details>
-<summary><strong>PLSC-550: Comparative Politics — Theory and Methodology</strong> (graduate)</summary>
+<summary><strong>PLSC-550: Comparative Politics: Theory and Methodology</strong> (graduate)</summary>
 <p>"Comparative Politics: Theory and Methodology" is the core seminar for the subfield of comparative politics in the Ph.D. in Political Science program. The course introduces students to the subfield, its intellectual evolution, and emerging questions and controversies. Throughout the semester, we will read and discuss both foundational theoretical work and more recent empirical research that applies existing theories to the developed and developing world. The primary goals of the course are to prepare students for a research career in comparative politics and to introduce doctoral candidates to the readings they will need to know for the comprehensive examination in comparative politics. The course will proceed thematically: each week we will discuss a subset of the relevant literature and focus our learning on a major theme, question, or debate. Important methodological approaches are addressed in the context of these substantive and theoretical works.</p>
 <ul class="course-meta">
   <li><a href="/assets/pdf/24s_plsc550_syllabus.pdf">Syllabus</a></li>
