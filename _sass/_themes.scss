@@ -248,20 +248,22 @@ html[data-theme="dark"] .student-photo {
   border-color: white;
 }
 /* Reading progress bar — black light, white dark */
-#progress,
-#progress-bar,
-.progress-bar,
-.progress-container,
-.progress-container .progress-bar {
-  background: black !important;
+#progress {
+  background-color: transparent;
+}
+#progress::-webkit-progress-bar {
+  background-color: transparent;
+}
+#progress::-webkit-progress-value {
+  background-color: black !important;
+}
+#progress::-moz-progress-bar {
   background-color: black !important;
 }
 
-html[data-theme="dark"] #progress,
-html[data-theme="dark"] #progress-bar,
-html[data-theme="dark"] .progress-bar,
-html[data-theme="dark"] .progress-container,
-html[data-theme="dark"] .progress-container .progress-bar {
-  background: white !important;
+html[data-theme="dark"] #progress::-webkit-progress-value {
+  background-color: white !important;
+}
+html[data-theme="dark"] #progress::-moz-progress-bar {
   background-color: white !important;
 }
