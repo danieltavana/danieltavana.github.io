@@ -3,28 +3,24 @@ layout: about
 title: About
 permalink: /
 subtitle: Assistant Professor of <a href="https://polisci.la.psu.edu/">Political Science</a>, Pennsylvania State University
-
 profile:
   align: right
   image: prof_pic.png
   image_circular: true
-
+  more_info: >
 selected_papers: false
 news: false
 latest_posts: false
 social: true
 ---
 
-Welcome! I am an Assistant Professor of [Political Science](https://polisci.la.psu.edu/) at Penn State. My primary research agenda involves the collection of original survey, electoral, and legislative data to better understand the conditions under which opposition elites succeed in authoritarian elections. My secondary research interests explore related questions in the fields of comparative political behavior and identity and ethnic politics. I am also a specialist in Middle East and North African politics, with field experience in Egypt, Kuwait, Lebanon, and Tunisia.
+Welcome! I am an Assistant Professor of [Political Science](https://polisci.la.psu.edu/) at Penn State. My primary research agenda involves the collection of original survey, electoral, and legislative data to better understand the conditions under which opposition elites succeed in authoritarian elections. My secondary research interests explore related questions in the fields of comparative political behavior and identity and ethnic politics. I am also a specialist in Middle East and North African politics, with field experience in Egypt, Kuwait, Lebanon, and Tunisia. My research is animated by a broader interest in understanding the origins of contemporary patterns of mass politics and the dynamics of political opposition in the region.
 
-My research has received recognition and support from a number of sources, including the Fulbright U.S. Student Program, the Open Society Foundations, the Swedish Foundation for Humanities and Social Sciences (Riksbankens Jubileumsfond), and the Project on Middle East Political Science (POMEPS). I have also received support from several institutions at Princeton University, including the Mamdouha S. Bobst Center for Peace and Justice, the Princeton Institute for International and Regional Studies (PIIRS), and the Sharmin and Bijan Mossavar-Rahmani Center for Iran and Persian Gulf Studies.
+I am currently completing my first book, *Opposition: How Ideology Disrupts Authoritarian Elections* (under review at Cambridge University Press), which traces how opposition elites in Kuwait use symbolic ideological appeals to build cross-group electoral coalitions and constrain the ruling family's policymaking agenda. Related research appears in the [American Journal of Political Science](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12960). Work on cooptation and legislative behavior in Kuwait, co-authored with Erin York, appears in the [British Journal of Political Science](https://doi.org/10.1017/S0007123424000371). Other research appears in the [Journal of Politics](https://www.journals.uchicago.edu/doi/10.1086/703209), [Party Politics](https://doi.org/10.1177/13540688231166088), and elsewhere. With Kevan Harris, I am a Principal Investigator of the Iran Social Survey (ISS). A full list of publications, working papers, and ongoing projects can be found on my Research pages.
 
-My academic research has been published in the [American Journal of Political Science](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12960), the [British Journal of Political Science](https://doi.org/10.1017/S0007123424000371), the [Journal of Politics](https://www.journals.uchicago.edu/doi/10.1086/703209), [Party Politics](https://doi.org/10.1177/13540688231166088), and [The Journal of North African Studies](https://www.tandfonline.com/doi/abs/10.1080/13629387.2011.639142). I have also written for the *Washington Post*, the Centre for Social Sciences Research and Action, and the Baker Institute for Public Policy at Rice University, among other outlets. With Kevan Harris, I am a Principal Investigator for the Iran Social Survey (ISS). A full list of publications, working papers, and ongoing projects can be found on my Research pages.
+Before joining Penn State, I was a Research Fellow at the [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/) and a Pre-doctoral Fellow at the [Council on Middle East Studies at Yale University](https://macmillan.yale.edu/middleeast). My research has been supported by the Fulbright U.S. Student Program, the Open Society Foundations, the Swedish Foundation for Humanities and Social Sciences (Riksbankens Jubileumsfond), and the Project on Middle East Political Science (POMEPS), among others.
 
-
-Before joining Penn State, I was a Research Fellow at the Institute for Advanced Study in Toulouse (IAST) and a Pre-doctoral Fellow at the Council on Middle East Studies at Yale University. My research has been supported by the Fulbright U.S. Student Program, the Open Society Foundations, the Swedish Foundation for Humanities and Social Sciences (Riksbankens Jubileumsfond), and the Project on Middle East Political Science (POMEPS), among others.
-
-I can be reached at [tavana@psu.edu](mailto:tavana@psu.edu). You can also follow me on [Bluesky](https://bsky.app/profile/danieltavana.bsky.social) and [X](https://www.twitter.com/danieltavana) (Twitter), or visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=j2a1_doAAAAJ) profile.
+I can be reached at [tavana@psu.edu](mailto:tavana@psu.edu). You can also follow me on [Bluesky](https://bsky.app/profile/danieltavana.bsky.social) and [X](https://www.twitter.com/danieltavana) (Twitter) or visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=j2a1_doAAAAJ) profile.
 
 <!-- Google Calendar Appointment Scheduling -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
