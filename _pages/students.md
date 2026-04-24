@@ -22,7 +22,6 @@ nav_order: 5
     height: 120px;
     border-radius: 50%;
     overflow: hidden;
-    background: var(--global-card-bg-color);
   }
   .student-photo img {
     width: 100%;
