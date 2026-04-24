@@ -513,11 +513,25 @@ ninja.data = [{
           window.open("mailto:%74%61%76%61%6E%61@%70%73%75.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/danieltavana", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=j2a1_doAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-0633-2829", "_blank");
         },
       },{
       id: 'light-theme',
