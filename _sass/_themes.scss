@@ -207,11 +207,18 @@ html[data-theme-setting="light"] {
   color: var(--global-theme-color);
 }
 
-a {
+/* Underline external links in body content only */
+.post a[href^="http"],
+.post a[href^="https"],
+article a[href^="http"],
+article a[href^="https"] {
   color: inherit;
   text-decoration: underline;
 }
 
-a:hover {
+.post a[href^="http"]:hover,
+.post a[href^="https"]:hover,
+article a[href^="http"]:hover,
+article a[href^="https"]:hover {
   color: inherit;
 }
