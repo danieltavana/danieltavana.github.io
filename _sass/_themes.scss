@@ -247,23 +247,11 @@ html[data-theme="dark"] .profile img,
 html[data-theme="dark"] .student-photo {
   border-color: white;
 }
-/* Reading progress bar — black light, white dark */
-#progress {
-  background-color: transparent;
-}
-#progress::-webkit-progress-bar {
-  background-color: transparent;
-}
-#progress::-webkit-progress-value {
-  background-color: black !important;
-}
-#progress::-moz-progress-bar {
-  background-color: black !important;
+/* Reading progress bar — override the source variable JS reads */
+:root {
+  --global-theme-color: black;
 }
 
-html[data-theme="dark"] #progress::-webkit-progress-value {
-  background-color: white !important;
-}
-html[data-theme="dark"] #progress::-moz-progress-bar {
-  background-color: white !important;
+html[data-theme="dark"] {
+  --global-theme-color: white;
 }
