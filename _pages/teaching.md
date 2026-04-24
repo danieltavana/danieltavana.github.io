@@ -9,7 +9,20 @@ nav_order: 4
 
 <style>
   details { margin-bottom: 0.5rem; }
-  details summary { padding: 0.25rem 0; cursor: pointer; }
+  details summary {
+    padding: 0.25rem 0;
+    cursor: pointer;
+    list-style: none;
+  }
+  details summary::-webkit-details-marker { display: none; }
+  details summary::before {
+    content: "+";
+    display: inline-block;
+    width: 1rem;
+    font-weight: bold;
+    color: inherit;
+  }
+  details[open] summary::before { content: "−"; }
   details[open] summary { margin-bottom: 0.5rem; }
   h2 { margin-top: 2.5rem; }
   h3 { margin-top: 1.75rem; margin-bottom: 1rem; }
