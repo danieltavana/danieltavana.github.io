@@ -5,6 +5,11 @@ title: Book project
 nav: false          # hidden from top nav — appears under Research dropdown
 ---
 
+h1 {
+  text-align: justify;
+  hyphens: auto;
+}
+
 <style>
   .post p {
     text-align: justify;
