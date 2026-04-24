@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor of <a href="https://polisci.la.psu.edu/">Political Science</a>, Pennsylvania State University
 profile:
   align: right
   image: prof_pic.png
