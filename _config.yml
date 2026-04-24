@@ -369,7 +369,7 @@ imagemagick:
   input_formats:
     - ".jpg"
     - ".jpeg"
-    - ".png"
+    #- ".png"
     - ".tiff"
     - ".gif"
   output_formats:
