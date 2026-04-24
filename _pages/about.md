@@ -24,3 +24,20 @@ My research has received recognition and support from a number of sources, inclu
 My academic research has been published in the [American Journal of Political Science](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12960), the [British Journal of Political Science](https://doi.org/10.1017/S0007123424000371), the [Journal of Politics](https://www.journals.uchicago.edu/doi/10.1086/703209), [Party Politics](https://doi.org/10.1177/13540688231166088), and [The Journal of North African Studies](https://www.tandfonline.com/doi/abs/10.1080/13629387.2011.639142). I have also written for the *Washington Post*, the Centre for Social Sciences Research and Action, and the Baker Institute for Public Policy at Rice University, among other outlets. With Kevan Harris, I am a Principal Investigator for the Iran Social Survey (ISS). A full list of publications, working papers, and ongoing projects can be found on my Research pages.
 
 I can be reached at [tavana@psu.edu](mailto:tavana@psu.edu). You can also follow me on [Bluesky](https://bsky.app/profile/danieltavana.bsky.social) and [Twitter](https://www.twitter.com/danieltavana), or visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=j2a1_doAAAAJ) profile.
+
+<!-- Google Calendar Appointment Scheduling -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<div id="gcal-scheduling-button"></div>
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ3zwhIfd_wxz1IGGCQZAUY2dDWKcWmwnx8nEK6MueGucz7vHTw3Tqf8SjWUW7jb1ZcFAl3uC_Nk?gv=true',
+      color: '#616161',
+      label: 'Book an appointment',
+      target: document.getElementById('gcal-scheduling-button'),
+    });
+  });
+})();
+</script>
