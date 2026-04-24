@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /book-project/
-title: book project
+title: Book project
 nav: false          # hidden from top nav — appears under Research dropdown
 ---
 
