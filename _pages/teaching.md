@@ -27,6 +27,8 @@ nav_order: 4
 <p>This course introduces students to the logic that guides the social scientific study of politics. In contrast to PLSC 502, 503, and 504, which focus on the analysis of data, this seminar focuses on the fundamentals of social scientific inquiry, theory building, and research design that precede data analysis. In 2008, Donald Rubin coined a now ubiquitous phrase: "Design trumps analysis." In this course, we're going to think about what this means and why this is. The course will provide students with the tools necessary to 1) distinguish theories from facts and assertions; 2) derive testable and falsifiable hypotheses from theory; and 3) design research projects, conduct research, and communicate results. We will consider the components of good research design as we cover a variety of methods used in contemporary political science research. The course is designed to encourage students to think more deeply about their own research interests and improve their ability to evaluate the research of others. Topics include concepts and measurement, design in experimental and observational settings, qualitative methodology, survey sampling and selection, comparisons of small-N and large-N designs, and approaches to scientific inference.</p>
 <ul class="course-meta">
   <li><a href="/assets/pdf/25f_plsc501_syllabus.pdf">Syllabus</a></li>
+  <li><a href="https://www.dropbox.com/scl/fi/5h6lekqdzvjyeddv00vsi/25f_plsc501_eval.pdf?rlkey=0d6fiu7u9s0sttwmuankrwvwd&st=lpz6z1o0&dl=0" target="_blank" rel="noopener">Course evaluations</a> (Password protected; contact <a href="mailto:tavana@psu.edu">tavana@psu.edu</a> for access)</li>
+  <li>Course evaluation: 4.4/5.0</li>
 </ul>
 </details>
 
@@ -35,6 +37,8 @@ nav_order: 4
 <p>This course introduces students to questions and debates concerning the contemporary politics of the Middle East and North Africa. For decades, the region has occupied the imagination of policymakers, journalists, and scholars. What explains the persistence of forms of authoritarian rule? Do elections, civil society organizations, and public opinion matter? How do religious, tribal, and other collective identities organize political and social life? Does oil play a role in economic inequality and underdevelopment? Why do ordinary people mobilize and protest for political change? Over the course of the semester, students will learn to think critically about these and other questions animating the contemporary politics of the Middle East and North Africa. Students will use insights from social and political theory to evaluate empirical trends in politics, society, and economics in the region. We will explore the major concepts and theories political scientists use to study phenomena such as the state, regimes, religion, identity, and popular protest. By adopting an approach that is both critical and comparative, students will develop an understanding of the region's politics grounded in its underlying social and political dynamics.</p>
 <ul class="course-meta">
   <li><a href="/assets/pdf/25f_plsc267N_syllabus.pdf">Syllabus</a></li>
+  <li><a href="https://www.dropbox.com/scl/fi/u0ddr592fwb66mvc74c3c/25f_plsc267N_eval.pdf?rlkey=25qk5zx4kjlyrwf3wboeq1pbc&st=tbznw5ff&dl=0" target="_blank" rel="noopener">Course evaluations</a> (Password protected; contact <a href="mailto:tavana@psu.edu">tavana@psu.edu</a> for access)</li>
+  <li>Course evaluation: 4.8/5.0</li>
 </ul>
 </details>
 
