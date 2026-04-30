@@ -22,7 +22,7 @@ social: true
     display: inline-block !important;
   }
   .social .contact-icons i {
-    font-size: 1.2rem;
+    font-size: 2.0rem;
   }
 </style>
 
