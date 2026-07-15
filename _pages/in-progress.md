@@ -50,7 +50,7 @@ nav: false
 </details>
 
 <details>
-<summary>Daniel L. Tavana, Kevan Harris, Amir Farmanesh, and Chi Shun (Gary) Fong. "Who Overreports? Regime Support and Preference Falsification in Iran."</summary>
+<summary>Daniel L. Tavana, Kevan Harris, Amir Farmanesh, and Chi Shun (Gary) Fong. "Who Overreports? Regime Support and Preference Falsification in Iran." <em>Under review.</em></summary>
 <p>In authoritarian contexts, individuals often express greater support for the regime in public than in private. This gap—overreporting—is typically treated as a measurement problem rather than a political behavior to be explained. We argue that overreporting deserves greater attention in survey-based studies of regime support and is itself shaped by which social referents are salient to respondents. We develop and test an original framework identifying three sources of overreporting: expressive identification, behavioral conformity, and civic resources. Drawing on a pre-registered, nationally representative telephone survey of Iranians (N=1,999) with a double list experiment, we estimate regime support at 47 percent—roughly ten points below the 57 percent recorded by direct questioning. We find that expressive identification matters most: national pride and religiosity both predict overreporting. Preference falsification in Iran is shaped less by coercion than by the identity-based attachments the regime encourages—with implications for how scholars understand regime support in closed societies.</p>
 <ul class="course-meta">
   <li><a href="https://osf.io/preprints/socarxiv/2mqud_v1" target="_blank" rel="noopener">Working paper</a></li>

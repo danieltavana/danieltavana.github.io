@@ -6,6 +6,12 @@ nav: true
 nav_order: 5
 ---
 
+<!--
+  NOTE TO SELF (not visible on the published page):
+  To prepare a student photo, remove the image background using https://www.remove.bg/
+  Then save the result as a .png in /assets/img/students/ and reference it in the entry below.
+-->
+
 <style>
   .student-list {
     margin-top: 1.5rem;
@@ -97,7 +103,7 @@ nav_order: 5
     <p class="header"><strong>Viktar Siamionau</strong></p>
     <p>PhD in Political Science</p>
     <p><a href="https://polisci.la.psu.edu/people/viktar-siamionau/" target="_blank" rel="noopener">https://polisci.la.psu.edu/people/viktar-siamionau/</a></p>
-    <p>Democratic backsliding, authoritarian resurgence, political behavior, anti-immigrant attitudes, Eastern European politics</p>
+    <p>Democratic backsliding, authoritarian resurgence, political behavior, anti-immigrant attitudes</p>
   </div>
 </div>
 
