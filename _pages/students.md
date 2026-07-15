@@ -62,16 +62,6 @@ nav_order: 5
 <div class="student-list">
 
 <div class="student">
-  <div class="student-photo"><img src="/assets/img/students/atac.png" alt="Enes Atac"></div>
-  <div class="student-info">
-    <p class="header"><strong>Enes Atac</strong></p>
-    <p>PhD in Sociology and Social Data Analytics</p>
-    <p><a href="https://enesatac.com/" target="_blank" rel="noopener">https://enesatac.com/</a></p>
-    <p>Political sociology, migration, religion, intergroup relations, computational social science</p>
-  </div>
-</div>
-
-<div class="student">
   <div class="student-photo"><img src="/assets/img/students/duran.png" alt="Cihan Duran"></div>
   <div class="student-info">
     <p class="header"><strong>Cihan Duran</strong></p>
@@ -101,16 +91,6 @@ nav_order: 5
   </div>
 </div>
 
-<div class="student">
-  <div class="student-photo"><img src="/assets/img/students/walsh.png" alt="Lindsay Walsh"></div>
-  <div class="student-info">
-    <p class="header"><strong>Lindsay Walsh</strong></p>
-    <p>PhD in Political Science and Women's, Gender, and Sexuality Studies</p>
-    <p><a href="https://saralindsay.org" target="_blank" rel="noopener">https://saralindsay.org/</a></p>
-    <p>Gender and politics, political ambition, sex/gender quotas, electoral systems, representation</p>
-  </div>
-</div>
-
 </div>
 
 ### Former PhD Students
@@ -134,6 +114,16 @@ nav_order: 5
     <p>PhD in Informatics</p>
     <p><a href="https://github.com/younes-karimi" target="_blank" rel="noopener">https://github.com/younes-karimi</a></p>
     <p>Machine learning, natural language processing and audio processing models, authoritarian propaganda</p>
+  </div>
+</div>
+
+<div class="student">
+  <div class="student-photo"><img src="/assets/img/students/walsh.png" alt="Lindsay Walsh"></div>
+  <div class="student-info">
+    <p class="header"><strong>Lindsay Walsh</strong></p>
+    <p>PhD in Political Science and Women's, Gender, and Sexuality Studies</p>
+    <p><a href="https://saralindsay.org" target="_blank" rel="noopener">https://saralindsay.org/</a></p>
+    <p>Gender and politics, political ambition, sex/gender quotas, electoral systems, representation</p>
   </div>
 </div>
 
