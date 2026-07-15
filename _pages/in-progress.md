@@ -37,7 +37,7 @@ nav: false
 </details>
 
 <details>
-<summary>Daniel L. Tavana, Christiana Parreira, and Lindsay Walsh. "From Protest to Parliament: Lebanon's October Revolution and the Rise of Movement Parties." <em>Under review.</em></summary>
+<summary>Daniel L. Tavana, Christiana Parreira, and Lindsay Walsh. "From Protest to Parliament: Lebanon's October Revolution and the Rise of Movement Parties." <em>Revise & resubmit.</em></summary>
 <p>Recent waves of protest have given rise to movement parties, or parties with strong ties to social movements that combine anti-system activism with opposition to governing parties and elites. We study the effects of Lebanon's 2019 October Revolution, a series of nationwide protests that took place over several months and targeted an extractive elite that has governed for two decades. Difference-in-differences estimates show that localities where protests took place were more likely to support movement parties in the election that followed the uprising. We attribute this effect to the exclusionary nature of the electoral system and show that support for movement parties was greatest in areas neglected by existing parties. Our findings contribute new insight into the relationship between protest movements and electoral behavior. Movement parties persistently struggle to channel anti-government, revolutionary opposition into support for electoral alternatives — but not where they are able to exploit the weaknesses of existing parties.</p>
 <ul class="course-meta">
   <li><a href="https://osf.io/preprints/socarxiv/tczvn_v1" target="_blank" rel="noopener">Working paper</a></li>
@@ -60,7 +60,7 @@ nav: false
 ### In Progress
 
 <details>
-<summary>Mostafa El Sharkawi and Daniel L. Tavana. "Religious Calendars and Legislative Behavior in an Authoritarian Parliament."</summary>
+<summary>Mostafa El Sharkawy and Daniel L. Tavana. "Religious Calendars and Legislative Behavior in an Authoritarian Parliament."</summary>
 <p>Do religious holidays shape legislative cooperation across sectarian lines? This paper examines whether Ramadan and Muharram — two Islamic holidays that prime religiosity in distinct ways — increase voting agreement between Sunni and Shia members of the Kuwait National Assembly (KNA) relative to non-holiday periods. Using roll-call vote data spanning 16 parliamentary terms from 1963 to 2013, we construct dyadic agreement measures for all MP pairs within each term and exploit the quasi-random overlap between Kuwait's legislative calendar and the Islamic lunar calendar as a source of exogenous variation in holiday exposure. A difference-in-differences design with dyad and term fixed effects isolates within-pair, within-term changes in cooperation attributable to holiday periods. We find that cross-sect legislative cooperation increases during both Ramadan and Muharram, and that this effect is concentrated among dyads where both legislators are Islamists, for whom religious priming is most directly activated. The effect is further concentrated in social policy votes, where religious identity is most directly implicated. These findings provide the first individual-level behavioral evidence that sacred times alter cross-sectarian legislative cooperation in an authoritarian parliament, contributing to debates on religious identity, political behavior, and institutional politics under autocracy.</p>
 </details>
 
