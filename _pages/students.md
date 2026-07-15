@@ -91,6 +91,16 @@ nav_order: 5
   </div>
 </div>
 
+<div class="student">
+  <div class="student-photo"><img src="/assets/img/students/siamionau.png" alt="Viktar Siamionau"></div>
+  <div class="student-info">
+    <p class="header"><strong>Viktar Siamionau</strong></p>
+    <p>PhD in Political Science</p>
+    <p><a href="https://polisci.la.psu.edu/people/viktar-siamionau/" target="_blank" rel="noopener">https://polisci.la.psu.edu/people/viktar-siamionau/</a></p>
+    <p>Democratic backsliding, authoritarian resurgence, political behavior, anti-immigrant attitudes, Eastern European politics</p>
+  </div>
+</div>
+
 </div>
 
 ### Former PhD Students
