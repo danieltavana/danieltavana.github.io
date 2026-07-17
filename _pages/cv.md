@@ -7,6 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-<p><a href="/assets/pdf/tavana_cv_20260701.pdf" target="_blank" rel="noopener">Download PDF</a></p>
+<p><a href="/assets/pdf/tavana_cv_20260717.pdf" target="_blank" rel="noopener">Download PDF</a></p>
 
-<iframe src="/assets/pdf/tavana_cv_20260701.pdf#toolbar=1&navpanes=0&view=FitH" width="100%" height="900px" style="border: 1px solid #ccc;"></iframe>
+<iframe src="/assets/pdf/tavana_cv_20260717.pdf#toolbar=1&navpanes=0&view=FitH" width="100%" height="900px" style="border: 1px solid #ccc;"></iframe>

@@ -1,0 +1,261 @@
+# Research database records (seeded from Articles, In Progress, Reviews, Other Writing).
+# Fields:
+#   title, authors, venue, year, status (optional), type, topics[], languages[], links[]
+#   Each link: {label, url}. Include only real links (direct links only).
+# Types: Published Article | Working Paper | Work in Progress | Book Review | Policy & Other Writing
+# Topics: Authoritarian Politics | Elections & Opposition | Legislative Behavior |
+#         Public Opinion & Political Behavior | Identity, Ideology & Repression |
+#         Political Methodology & Data | Civil Society & Protest
+
+# ---------------------------------------------------------------------------
+# Published articles
+# ---------------------------------------------------------------------------
+- title: "The Social Legacies of Repression: Family, Friends, and Political Participation"
+  authors: "with Alexandra Domike Blackman, Nicholas J. Lotito, and Elizabeth R. Nugent"
+  venue: "Journal of Conflict Resolution"
+  year: 2026
+  status: "Forthcoming"
+  type: "Published Article"
+  topics: ["Identity, Ideology & Repression", "Public Opinion & Political Behavior"]
+  languages: ["English"]
+  links: []
+
+- title: "Endogenous Opposition: Identity and Ideology in Kuwaiti Electoral Politics"
+  authors: "Daniel L. Tavana"
+  venue: "American Journal of Political Science"
+  year: 2026
+  type: "Published Article"
+  topics: ["Authoritarian Politics", "Elections & Opposition", "Identity, Ideology & Repression"]
+  languages: ["English"]
+  links:
+    - {label: "DOI", url: "https://doi.org/10.1111/ajps.12960"}
+    - {label: "PDF", url: "/assets/pdf/2026_ajps.pdf"}
+
+- title: "Legislative Cooptation in Authoritarian Regimes: Policy Cooperation in the Kuwait National Assembly"
+  authors: "with Erin York"
+  venue: "British Journal of Political Science"
+  year: 2025
+  type: "Published Article"
+  topics: ["Authoritarian Politics", "Legislative Behavior"]
+  languages: ["English"]
+  links:
+    - {label: "DOI", url: "https://doi.org/10.1017/S0007123424000371"}
+    - {label: "PDF", url: "/assets/pdf/2025_bjps.pdf"}
+
+- title: "Ethnic Political Socialization and University Elections"
+  authors: "with Christiana Parreira and Charles Harb"
+  venue: "Party Politics"
+  year: 2024
+  type: "Published Article"
+  topics: ["Identity, Ideology & Repression", "Public Opinion & Political Behavior"]
+  languages: ["English"]
+  links:
+    - {label: "DOI", url: "https://doi.org/10.1177/13540688231166088"}
+    - {label: "PDF", url: "/assets/pdf/2024_pp.pdf"}
+
+- title: "Implicit Attitudes toward an Authoritarian Regime"
+  authors: "with Rory Truex"
+  venue: "Journal of Politics"
+  year: 2019
+  type: "Published Article"
+  topics: ["Authoritarian Politics", "Public Opinion & Political Behavior"]
+  languages: ["English"]
+  links:
+    - {label: "DOI", url: "https://doi.org/10.1086/703209"}
+    - {label: "PDF", url: "/assets/pdf/2019_jop.pdf"}
+
+- title: "Party Proliferation and Electoral Transition in Post-Mubarak Egypt"
+  authors: "Daniel L. Tavana"
+  venue: "The Journal of North African Studies"
+  year: 2011
+  type: "Published Article"
+  topics: ["Elections & Opposition"]
+  languages: ["English"]
+  links:
+    - {label: "DOI", url: "https://doi.org/10.1080/13629387.2011.639142"}
+    - {label: "PDF", url: "/assets/pdf/2011_jnas.pdf"}
+
+# ---------------------------------------------------------------------------
+# Working papers
+# ---------------------------------------------------------------------------
+- title: "Who Overreports? Regime Support and Preference Falsification in Iran"
+  authors: "with Kevan Harris, Amir Farmanesh, and Chi Shun (Gary) Fong"
+  venue: null
+  status: "Under review"
+  type: "Working Paper"
+  topics: ["Authoritarian Politics", "Public Opinion & Political Behavior", "Political Methodology & Data"]
+  languages: ["English"]
+  links:
+    - {label: "Working paper", url: "https://osf.io/preprints/socarxiv/2mqud_v1"}
+
+- title: "Institutional Backlash: Assembly Dissolution and Snap Elections in Authoritarian Regimes"
+  authors: "with Erin York"
+  venue: null
+  type: "Working Paper"
+  topics: ["Authoritarian Politics", "Legislative Behavior", "Elections & Opposition"]
+  languages: ["English"]
+  links: []
+
+- title: "Ideology, Constraint, and Support for Authoritarian Rule: The Iranian Belief Network"
+  authors: "Daniel L. Tavana"
+  venue: null
+  status: "Revise & resubmit"
+  type: "Working Paper"
+  topics: ["Authoritarian Politics", "Identity, Ideology & Repression", "Public Opinion & Political Behavior"]
+  languages: ["English"]
+  links: []
+
+- title: "From Protest to Parliament: Lebanon's October Revolution and the Rise of Movement Parties"
+  authors: "with Christiana Parreira and Lindsay Walsh"
+  venue: null
+  status: "Revise & resubmit"
+  type: "Working Paper"
+  topics: ["Elections & Opposition", "Civil Society & Protest"]
+  languages: ["English"]
+  links:
+    - {label: "Working paper", url: "https://osf.io/preprints/socarxiv/tczvn_v1"}
+
+# ---------------------------------------------------------------------------
+# Work in progress
+# ---------------------------------------------------------------------------
+- title: "Sacred Times, Sectarian Politics: Group Identity and Legislative Behavior in Authoritarian Regimes"
+  authors: "with Mostafa El Sharkawy"
+  venue: null
+  type: "Work in Progress"
+  topics: ["Legislative Behavior", "Identity, Ideology & Repression"]
+  languages: ["English"]
+  links: []
+
+- title: "Extracting Elite Career Data from Arabic CVs: An Open-Source LLM Approach"
+  authors: "with Gilad Wenig"
+  venue: null
+  type: "Work in Progress"
+  topics: ["Political Methodology & Data"]
+  languages: ["English"]
+  links: []
+
+- title: "Mass Protest and Electoral Behavior in Authoritarian Regimes: Evidence from the Islamic Republic of Iran"
+  authors: "with Kevan Harris and Zep Kalb"
+  venue: null
+  type: "Work in Progress"
+  topics: ["Elections & Opposition", "Civil Society & Protest", "Public Opinion & Political Behavior"]
+  languages: ["English"]
+  links: []
+
+# ---------------------------------------------------------------------------
+# Book reviews
+# ---------------------------------------------------------------------------
+- title: "After Repression: How Polarization Derails Democratic Transition"
+  authors: "Daniel L. Tavana"
+  venue: "Democratization"
+  year: 2022
+  type: "Book Review"
+  topics: ["Authoritarian Politics"]
+  languages: ["English"]
+  links:
+    - {label: "DOI", url: "https://doi.org/10.1080/13510347.2021.2017424"}
+
+# ---------------------------------------------------------------------------
+# Policy & other writing
+# ---------------------------------------------------------------------------
+- title: "The Unintended Consequences of Authoritarian Elections: Insights from Elite Interviews in Kuwait"
+  authors: "Daniel L. Tavana"
+  venue: "APSA MENA Politics Section Newsletter"
+  year: 2022
+  type: "Policy & Other Writing"
+  topics: ["Authoritarian Politics", "Elections & Opposition"]
+  languages: ["English"]
+  links:
+    - {label: "Link", url: "https://apsamena.org/wp-content/uploads/2022/11/APSA_MENA_Fall-2022_vol.5-1.pdf"}
+
+- title: "Leave! Contentious Politics in Kuwait during the 'Arab Spring'"
+  authors: "Daniel L. Tavana"
+  venue: "Issam Fares Institute, American University of Beirut"
+  year: 2021
+  type: "Policy & Other Writing"
+  topics: ["Civil Society & Protest"]
+  languages: ["English"]
+  links:
+    - {label: "Link", url: "https://www.aub.edu.lb/ifi/Pages/civil-society-actors-and-policy-making/projects/breaking-the-mold-case-studies/sorted-by/country/arab-gulf-case-studies.aspx"}
+
+- title: "Five for Kuwait: Civil Society and Electoral Reform in an Arab Gulf State"
+  authors: "Daniel L. Tavana"
+  venue: "Issam Fares Institute, American University of Beirut"
+  year: 2021
+  type: "Policy & Other Writing"
+  topics: ["Civil Society & Protest", "Elections & Opposition"]
+  languages: ["English"]
+  links:
+    - {label: "Link", url: "https://www.aub.edu.lb/ifi/Pages/civil-society-actors-and-policy-making/projects/breaking-the-mold-case-studies/sorted-by/country/arab-gulf-case-studies.aspx"}
+
+- title: "Kuwait voted this weekend. Who won?"
+  authors: "with Abdullah al-Khonaini"
+  venue: "Monkey Cage, Washington Post"
+  year: 2020
+  type: "Policy & Other Writing"
+  topics: ["Elections & Opposition"]
+  languages: ["English"]
+  links:
+    - {label: "Link", url: "https://www.washingtonpost.com/politics/2020/12/08/kuwait-voted-this-weekend-who-won/"}
+
+- title: "Polling an Islamic Republic: The Iran Social Survey"
+  authors: "with Kevan Harris"
+  venue: "APSA MENA Politics Section Newsletter"
+  year: 2019
+  type: "Policy & Other Writing"
+  topics: ["Public Opinion & Political Behavior", "Political Methodology & Data"]
+  languages: ["English"]
+  links:
+    - {label: "Link", url: "https://apsamena.org/2019/04/16/polling-an-islamic-republic-the-iran-social-survey"}
+
+- title: "Lebanon's 2018 Election: New Measures and the Resilience of the Status Quo"
+  authors: "with Christiana Parreira"
+  venue: "Lebanon Support"
+  year: 2019
+  type: "Policy & Other Writing"
+  topics: ["Elections & Opposition"]
+  languages: ["English", "Arabic"]
+  links:
+    - {label: "English", url: "https://civilsociety-centre.org/sites/default/files/resources/ls_lebanon2018electionspb_en.pdf"}
+    - {label: "Arabic", url: "https://civilsociety-centre.org/sites/default/files/resources/ls_lebanon2018electionspb_ar.pdf"}
+
+- title: "The Evolution of the Kuwaiti 'Opposition': Electoral Politics after the Arab Spring"
+  authors: "Daniel L. Tavana"
+  venue: "Baker Institute for Public Policy, Rice University"
+  year: 2018
+  type: "Policy & Other Writing"
+  topics: ["Elections & Opposition", "Authoritarian Politics"]
+  languages: ["English"]
+  links:
+    - {label: "Link", url: "https://www.bakerinstitute.org/research/evolution-kuwaiti-opposition-electoral-politics-after-arab-spring/"}
+
+- title: "Voter Behaviour and Political Mobilization in Iran"
+  authors: "with Kevan Harris"
+  venue: "European Middle East Research Group (EMERG)"
+  year: 2017
+  type: "Policy & Other Writing"
+  topics: ["Public Opinion & Political Behavior", "Elections & Opposition"]
+  languages: ["English", "Farsi"]
+  links:
+    - {label: "English", url: "https://web.archive.org/web/20210324121238/https://emerg.expert/publications/report-voter-behaviour-and-political-mobilization-in-iran/"}
+    - {label: "Farsi", url: "https://emerg.expert/publications/%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%b1%d9%81%d8%aa%d8%a7%d8%b1-%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa%db%8c-%d9%88-%d8%a8%d8%b3%db%8c%d8%ac-%d8%b3%db%8c%d8%a7%d8%b3%db%8c-%d8%af%d8%b1-%d8%a7/"}
+
+- title: "Egypt Five Years after the Uprisings: Findings from the Arab Barometer"
+  authors: "Daniel L. Tavana"
+  venue: "Arab Barometer"
+  year: 2017
+  type: "Policy & Other Writing"
+  topics: ["Public Opinion & Political Behavior"]
+  languages: ["English"]
+  links:
+    - {label: "Link", url: "https://www.arabbarometer.org/wp-content/uploads/Egypt_Public_Opinion_Survey_2016.pdf"}
+
+- title: "Preparing to Draft a New Social Contract: Tunisia's National Constituent Assembly Election, 2011"
+  authors: "Daniel L. Tavana"
+  venue: "Innovations for Successful Societies, Princeton University"
+  year: 2014
+  type: "Policy & Other Writing"
+  topics: ["Elections & Opposition", "Civil Society & Protest"]
+  languages: ["English"]
+  links:
+    - {label: "Link", url: "https://successfulsocieties.princeton.edu/publications/preparing-draft-new-social-contract-tunisias-national-constituent-assembly-election"}
