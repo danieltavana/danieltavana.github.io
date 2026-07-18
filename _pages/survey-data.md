@@ -71,7 +71,7 @@ nav: false
 </ol>
   <p>Links:</p>
 <ul>
-  <li><a href="/assets/pdf/survey_instruments/iss1_instrument.pdf" target="_blank" rel="noopener">Survey instrument (Wave 2)</a></li>
+  <li><a href="/assets/pdf/survey_instruments/iss1_instrument.pdf" target="_blank" rel="noopener">Survey instrument (Wave 1)</a></li>
   <li><a href="/assets/pdf/survey_instruments/iss2_instrument.pdf" target="_blank" rel="noopener">Survey instrument (Wave 2)</a></li>
 </ul>
 </details>
@@ -120,7 +120,7 @@ nav: false
 <p>This project examines how experiences with state repression and the process of family socialization shape political attitudes and behavior in new democracies. Drawing on a nationally representative survey conducted in Tunisia in 2017, we examine how individual-level experiences of state repression influence political participation and partisanship following the transition from authoritarian rule.</p>
 <p>Publications:</p>
 <ol>
-  <li>Alexandra Domike Blackman, Nicholas J. Lotito, Elizabeth R. Nugent, and Daniel L. Tavana. 2026. "The Social Legacies of Repression: Family, Friends, and Political Participation." Forthcoming, <em>Journal of Conflict Resolution</em>. [<a href="#" target="_blank" rel="noopener">DOI</a>] [<a href="#" target="_blank" rel="noopener">PDF</a>]</li>
+  <li>Alexandra Domike Blackman, Nicholas J. Lotito, Elizabeth R. Nugent, and Daniel L. Tavana. 2026. "The Social Legacies of Repression: Family, Friends, and Political Participation." Forthcoming, <em>Journal of Conflict Resolution</em>. [DOI] [PDF]</li>
 </ol>
   <p>Links:</p>
 <ul>
