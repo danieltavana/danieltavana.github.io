@@ -71,7 +71,8 @@ nav: false
 </ol>
   <p>Links:</p>
 <ul>
-  <li>Data and replication files</li>
+  <li><a href="/assets/pdf/survey_instruments/iss1_instrument.pdf" target="_blank" rel="noopener">Survey instrument (Wave 2)</a></li>
+  <li><a href="/assets/pdf/survey_instruments/iss2_instrument.pdf" target="_blank" rel="noopener">Survey instrument (Wave 2)</a></li>
 </ul>
 </details>
 
@@ -108,7 +109,7 @@ nav: false
 </ol>
   <p>Links:</p>
 <ul>
-  <li>Data and replication files</li>
+  <li><a href="/assets/pdf/survey_instruments/aub_conjoint_instrument.pdf" target="_blank" rel="noopener">Survey instrument</a></li>
 </ul>
 </details>
 
