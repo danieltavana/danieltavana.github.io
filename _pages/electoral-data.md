@@ -94,8 +94,8 @@ nav: false
 </details>
 
 <details>
-<summary>Kuwait Voter Rolls [2018–2023]</summary>
-<p>This dataset contains the official registers of voters eligible to vote in Kuwait National Assembly elections from 2018 to 2023, released by the Ministry of Interior. The rolls are organized by electoral roll within each National Assembly and municipal district, and separately by gender. For each registered voter, the records include the National Assembly and municipal district and roll assignments, a registration letter, number, and date, a Ministry of Interior reference number, full name (and its component parts), date of birth, occupation, and registered address.</p>
+<summary>Kuwait National Assembly Elections Voter Rolls [2018–2023]</summary>
+<p>This dataset contains the official registers of voters eligible to vote in Kuwait National Assembly elections from 2018 to 2023, released by the Ministry of Interior. The rolls are organized by electoral roll within each National Assembly electoral district, and separately by gender. For each registered voter, the records include the National Assembly and municipal district and roll assignments, a registration letter, number, and date, a Ministry of Interior reference number, full name (and its component parts), date of birth, occupation, and registered address.</p>
 <p>Links:</p>
 <ul>
   <li>Data</li>
@@ -106,7 +106,7 @@ nav: false
 ### Lebanon
 
 <details>
-<summary>Lebanon Chamber of Deputies Election Results [2009-2022]</summary>
+<summary>Lebanon Chamber of Deputies Elections Dataset [2009-2022]</summary>
 <p>This dataset contains polling station-level results from Lebanon's 2009, 2018, and 2022 Chamber of Deputies elections, compiled from the Lebanese Ministry of Interior and Municipalities. For each polling station it records the votes won by every candidate and list, along with the number of valid, invalid, and blank ballots. Each candidate is hand-coded for party affiliation and each list is classified (for example, as a governing party, opposition, or unaffiliated list), drawing on analyses by Lebanese civil society organizations, research centers, and media outlets. Polling stations are matched to localities using UNHCR/UNICEF locality codes, allowing results to be linked to geographic and demographic data.</p>
 <p>Publications:</p>
 <ol>
@@ -120,7 +120,7 @@ nav: false
 </details>
 
 <details>
-<summary>Lebanon Chamber of Deputies Election Voter Rolls [2018-2022]</summary>
+<summary>Lebanon Chamber of Deputies Elections Voter Rolls [2018-2022]</summary>
 <p>This dataset contains the lists of registered voters released by the Lebanese Ministry of Interior and Municipalities before the 2018 and 2022 Chamber of Deputies elections. For each registered voter, the data record date of birth, gender, ethnosectarian (religious) identity, and the assigned polling station. Because voters are allocated to polling stations by gender, registration number, and registered sect, the data can be aggregated to the polling-station and locality levels to construct demographic measures such as median age, gender balance, and sectarian composition.</p>
 <p>Publications:</p>
 <ol>
