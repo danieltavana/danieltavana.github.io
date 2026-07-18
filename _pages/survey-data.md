@@ -51,7 +51,7 @@ nav: false
 </ol>
 <p>Links:</p>
 <ul>
-  <li>Data and replication files</li>
+  <li><a href="https://doi.org/10.1086/703209" target="_blank" rel="noopener”>Data and rep</a></li>
 </ul>
 </details>
 
