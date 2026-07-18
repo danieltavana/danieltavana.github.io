@@ -152,7 +152,7 @@ nav: false
 </details>
 
 <details>
-<summary>Daniel L. Tavana. 2012. <em>Egypt Must Think of a New Election Law.</em> The Daily Star. Previously published by the Carnegie Endowment for International Peace. [<a href="https://web.archive.org/web/20120928225408/http://dailystar.com.lb/Opinion/Commentary/2012/Sep-24/188976-egypt-must-think-of-a-new-election-law.ashx" target="_blank" rel="noopener">Link</a>]</summary>
+<summary>Daniel L. Tavana. 2012. <em>Egypt Must Think of a New Election Law.</em> The Daily Star (previously published by the Carnegie Endowment for International Peace). [<a href="https://web.archive.org/web/20120928225408/http://dailystar.com.lb/Opinion/Commentary/2012/Sep-24/188976-egypt-must-think-of-a-new-election-law.ashx" target="_blank" rel="noopener">Link</a>]</summary>
 <p>The architects of Egypt’s transition and those responsible for drafting the Constitution have given little thought to the future of the country’s electoral law – a critical component of sustainable democracy.That’s because seemingly bigger issues have come to dominate the attention of decision-makers in recent months: curbing institutional interests, checking the power of the military, and holding a broader debate on the role of religion in politics. Debate over these issues has come at the expense of discussing inclusive laws regulating elections and the legitimate transfer of political power.</p>
 </details>
 
