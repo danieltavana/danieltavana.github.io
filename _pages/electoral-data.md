@@ -43,7 +43,7 @@ nav: false
 
 <details>
 <summary>Islamic Consultative Assembly Election Results [2012–2024]</summary>
-<p>This dataset contains candidate-level results from the 2012, 2016, 2020, and 2024 Islamic Consultative Assembly elections in Iran. Results are disaggregated at the electoral district level.</p>
+<p>This dataset contains results from Iran's 2012, 2016, 2020, and 2024 Islamic Consultative Assembly (Majles) elections at the candidate-district level. Members are elected from 202 districts (167 single-member and 35 multi-member, ranging from one to six seats, with Tehran electing 30) under a block-voting (multiple non-transferable vote) system in which electors cast as many votes as there are seats, with run-offs held where candidates fall short of the 25 percent threshold. Because neither the Ministry of Interior nor the Council of Guardians releases official, detailed returns, the data were compiled from semi-official and local media sources, including provincial, county, and city outlets that publish certified district-level results from local election boards, and paired with faction press releases identifying the candidates each faction (Reformist, Principlist, and Moderate) endorsed in each district. For multi-member districts, where electors have as many votes as there are seats, candidate vote totals are estimated using the fictional voter method. Each record includes the votes a candidate received, their district, and their factional or list endorsement.</p>
 <p>Links:</p>
 <ul>
   <li>Data</li>
@@ -86,6 +86,16 @@ nav: false
 <ol>
   <li>Daniel L. Tavana. 2026. "Endogenous Opposition: Identity and Ideology in Kuwaiti Electoral Politics." <em>American Journal of Political Science</em> 70(2): 623-642. [<a href="https://doi.org/10.1111/ajps.12960" target="_blank" rel="noopener">DOI</a>] [<a href="/assets/pdf/2026_ajps.pdf" target="_blank" rel="noopener">PDF</a>]</li>
 </ol>
+<p>Links:</p>
+<ul>
+  <li>Data</li>
+  <li>Codebook</li>
+</ul>
+</details>
+
+<details>
+<summary>Kuwait Voter Rolls [2018–2023]</summary>
+<p>This dataset contains the official registers of voters eligible to vote in Kuwait National Assembly elections from 2018 to 2023, released by the Ministry of Interior. The rolls are organized by electoral roll within each National Assembly and municipal district, and separately by gender. For each registered voter, the records include the National Assembly and municipal district and roll assignments, a registration letter, number, and date, a Ministry of Interior reference number, full name (and its component parts), date of birth, occupation, and registered address.</p>
 <p>Links:</p>
 <ul>
   <li>Data</li>
