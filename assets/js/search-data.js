@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "dropdown-book-project",
-              title: "Book Project",
+              title: "Book project",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -31,7 +31,7 @@ ninja.data = [{
                 window.location.href = "/articles/";
               },
             },{id: "dropdown-in-progress",
-              title: "In Progress",
+              title: "In progress",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -45,7 +45,7 @@ ninja.data = [{
                 window.location.href = "/reviews/";
               },
             },{id: "dropdown-other-writing",
-              title: "Other Writing",
+              title: "Other writing",
               description: "",
               section: "Dropdown",
               handler: () => {
