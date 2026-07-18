@@ -43,7 +43,11 @@ nav: false
 
 <details>
 <summary>Implicit Attitudes toward an Authoritarian Regime (SISI-SCIAT)</summary>
-<p>This project brings implicit attitudes into the study of public opinion under authoritarianism. Building on the implicit attitude measurement literature in psychology, we develop a Single Category Implicit Association Test (SCIAT) that measures attitudes toward Egyptian President Abdel Fattah El-Sisi using variance in reaction time to a categorization task. The protocol was administered online via Project Implicit's platform; of roughly 1,000 Egyptian respondents, 810 had valid IAT scores. Fieldwork: October 7 to October 12, 2016.</p>
+<p>This project brings implicit attitudes into the study of public opinion under authoritarianism. Building on the implicit attitude measurement literature in psychology, we develop a Single Category Implicit Association Test (SCIAT) that measures attitudes toward Egyptian President Abdel Fattah El-Sisi using variance in reaction time to a categorization task. The protocol was administered online via Project Implicit's platform; of roughly 1,000 Egyptian respondents, 810 had valid IAT scores. Fieldwork: October 7 to October 12, 2016.
+
+Publications:
+Rory Truex and Daniel L. Tavana. 2019. "Implicit Attitudes toward an Authoritarian Regime." <em>Journal of Politics</em> 81(3): 1014-1027. [<a href="https://doi.org/10.1086/703209" target="_blank" rel="noopener">DOI</a>] [<a href="/assets/pdf/2019_jop.pdf" target="_blank" rel="noopener">PDF</a>]
+</p>
 </details>
 
 ### Iran
