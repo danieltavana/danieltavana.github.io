@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /other-writing/
-title: Other Writing
-description: Public-facing and policy writing.
+title: Other writing
 nav: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /in-progress/
-title: In Progress
+title: In progress
 nav: false
 ---
 
