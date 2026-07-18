@@ -64,7 +64,7 @@ nav: false
 
 <details class="translation">
 <summary>Daniel L. Tavana. 2021. <span dir="rtl" lang="ar">إرحل! السياسة التنازعيّة في الكويت خلال «الربيع العربي»</span> <em>(Leave! Contentious Politics in Kuwait during the 'Arab Spring' [Arabic])</em>. Issam Fares Institute, American University of Beirut. [<a href="https://web.archive.org/web/20240820040217/https://www.aub.edu.lb/ifi/Documents/Contentious-Politics-in-Kuwait-during-the-Arab-Spring-AR.pdf" target="_blank" rel="noopener">Link</a>] [<a href="/assets/pdf/policy_writing/2021_aub_leave_ar.pdf" target="_blank" rel="noopener">PDF</a>]</summary>
-<p dir="rtl" lang="ar"></p>
+<p dir="rtl" lang="ar">مع مرور الوقت، برز عدد من الفضائح التي طاولت الشيخ ناصر وأعضاء مجلس الوزراء، وأثارت حالة شبه دائمة من الجدل، ما أجبر الأمير على حلّ مجلس الأمة الكويتي في كلّ من أيار/ مايو 2006، وآذار/ مارس 2008، وآذار/ مارس 2009. مع انتشار المظاهرات في جميع أنحاء المنطقة خلال أحداث الربيع العربي، تورّطت حكومة الشيخ ناصر في فضيحة فساد: يُزعم أنه دُفعت رشاوى إلى النواب الموالين للحكومة ليمتثلوا لها في مجلس الأمة الكويتي. لاحقًا، اشتدّت المظاهرات في خريف 2011، عندما دخلت مجموعة من المتظاهرين ونواب المعارضة إلى مجلس الأمة الكويتي واحتلّوه لفترة وجيزة، وبعد أسبوعين استقال الشيخ ناصر.</p>
 </details>
 
 <details>
@@ -74,7 +74,7 @@ nav: false
 
 <details class="translation">
 <summary>Daniel L. Tavana. 2021. <span dir="rtl" lang="ar">نبيها خمسة: المجتمع المدني والإصلاح الانتخابي في دولة الخليج العربي</span> <em>(Civil Society and Electoral Reform in an Arab Gulf State [Arabic])</em>. Issam Fares Institute, American University of Beirut. [<a href="https://web.archive.org/web/20240820042530/https://www.aub.edu.lb/ifi/Documents/Five-for-Kuwait-Civil-Society-and-Electoral-Reform-in-an-Arab-Gulf-State-AR.pdf" target="_blank" rel="noopener">Link</a>] [<a href="/assets/pdf/policy_writing/2021_aub_five_ar.pdf" target="_blank" rel="noopener">PDF</a>]</summary>
-<p dir="rtl" lang="ar"></p>
+<p dir="rtl" lang="ar">أيضًا، أدّت طبيعة هذه الدوائر الصغيرة إلى ظهور «نواب الخدمات»، الذين مُنِحوا إمكانية الوصول إلى موارد الدولة وامتيازاتها مقابل امتثالهم لمقترحات الحكومة في مجلس الأمة الكويتي. في بدايات الألفية الثانية، أدّت أشكال عدة من الممارسات الانتخابية الخاطئة (بما في ذلك شراء الأصوات) إلى تقديم عدد من الاقتراحات الإصلاحية في مجلس الأمة الكويتي. في الواقع، شكّلت هذه المظالم الأساسية عددًا من النقاشات العامة اللاحقة حول الحاجة إلى التغيير.</p>
 </details>
 
 <details>
@@ -94,7 +94,7 @@ nav: false
 
 <details class="translation">
 <summary>Daniel L. Tavana and Christiana Parreira. 2019. <span dir="rtl" lang="ar">انتخابات لبنان النيابية: تدابير جديدة واستمرار الوضع الراهن</span> <em>(Lebanon's 2018 Election: New Measures and the Resilience of the Status Quo [Arabic])</em>. Centre for Social Sciences Research and Action. [<a href="https://web.archive.org/web/20260717182752/https://www.socialsciences-centre.org/arabic/research/policy-briefs/resource/lebanone28099s-2018-election-new-measures-and-resilience-status-quo" target="_blank" rel="noopener">Link</a>] [<a href="/assets/pdf/policy_writing/2019_cessra_ar.pdf" target="_blank" rel="noopener">PDF</a>]</summary>
-<p dir="rtl" lang="ar"></p>
+<p dir="rtl" lang="ar">يستكشف هذا الموجز كيف ساد الوضع الراهن - على الرغم من الإحباط المنتشر بين المواطنين. سيخضع الموجز المفارقات المذكورة أعلاه الى بحث تجريبي إضافي، مع إيلاء اهتمام خاص لأداء الفاعلين الجدد. نستخلص النتائج التي توصلنا إليها من تحليل لنتائج الانتخابات، ومراقبة المشاركين لفترة الحملة، ومقابلات جماعية مركزة أجريت قبل الانتخابات وبعدها. سيحلل هذا الموجز كيف أن تصورات المواطن في ما يتعلق بالقانون الانتخابي الجديد، ودخول لوائح وحركات المجتمع المدني، ومزايا موارد الأحزاب، وأساليب التلاعب غير القانونية ساهمت في إعادة إنتاج الوضع الانتخابي الراهن في لبنان.</p>
 </details>
 
 <details>
