@@ -50,9 +50,9 @@ nav: false
   <li>Rory Truex and Daniel L. Tavana. 2019. "Implicit Attitudes toward an Authoritarian Regime." <em>Journal of Politics</em> 81(3): 1014-1027. [<a href="https://doi.org/10.1086/703209" target="_blank" rel="noopener">DOI</a>] [<a href="/assets/pdf/2019_jop.pdf" target="_blank" rel="noopener">PDF</a>]</li>
 </ol>
 <p>Links:</p>
-<ol>
+<ul>
   <li>Dataverse</li>
-</ol>
+</ul>
 </details>
 
 ### Iran
