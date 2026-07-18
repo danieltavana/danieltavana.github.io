@@ -51,7 +51,7 @@ nav: false
 </ol>
 <p>Links:</p>
 <ul>
-  <li>Dataverse</li>
+  <li>Data and replication files</li>
 </ul>
 </details>
 
@@ -68,6 +68,10 @@ nav: false
   <li>Kevan Harris and Daniel L. Tavana. 2017. <span dir="rtl" lang="fa">رفتار انتخاباتی و بسيج سياسی در ايران: نتايج پيمايش اجتماعی ايران</span> (<em>Voter Behavior and Political Mobilization in Iran: Findings from the Iran Social Survey</em> [Farsi]). European Middle East Research Group (EMERG). [<a href="https://web.archive.org/web/20210324121238/https://emerg.expert/publications/report-voter-behaviour-and-political-mobilization-in-iran/" target="_blank" rel="noopener">Link</a>] [<a href="/assets/pdf/policy_writing/2017_emerg_fa.pdf" target="_blank" rel="noopener">PDF</a>]</li>
   <li>Kevan Harris and Daniel L. Tavana. 2017. <em>Voter Behavior and Political Mobilization in Iran: Findings from the Iran Social Survey.</em> European Middle East Research Group (EMERG). [<a href="https://web.archive.org/web/20210324121238/https://emerg.expert/publications/report-voter-behaviour-and-political-mobilization-in-iran/" target="_blank" rel="noopener">Link</a>] [<a href="/assets/pdf/policy_writing/2017_emerg_en.pdf" target="_blank" rel="noopener">PDF</a>]</li>
 </ol>
+  <p>Links:</p>
+<ul>
+  <li>Data and replication files</li>
+</ul>
 </details>
 
 <details>
@@ -77,6 +81,10 @@ nav: false
 <ol>
   <li>Daniel L. Tavana, Kevan Harris, Amir Farmanesh, and Chi Shun (Gary) Fong. "Who Overreports? Regime Support and Preference Falsification in Iran." <em>Under review.</em></li>
 </ol>
+  <p>Links:</p>
+<ul>
+  <li>Data and replication files</li>
+</ul>
 </details>
 
 ### Lebanon
@@ -97,6 +105,10 @@ nav: false
 <ol>
   <li>Christiana Parreira, Daniel L. Tavana, and Charles Harb. 2024. "Ethnic Political Socialization and University Elections." <em>Party Politics</em> 30(3): 550-569. [<a href="https://doi.org/10.1177/13540688231166088" target="_blank" rel="noopener">DOI</a>] [<a href="/assets/pdf/2024_pp.pdf" target="_blank" rel="noopener">PDF</a>]</li>
 </ol>
+  <p>Links:</p>
+<ul>
+  <li>Data and replication files</li>
+</ul>
 </details>
 
 ### Tunisia
@@ -108,4 +120,8 @@ nav: false
 <ol>
   <li>Alexandra Domike Blackman, Nicholas J. Lotito, Elizabeth R. Nugent, and Daniel L. Tavana. 2026. "The Social Legacies of Repression: Family, Friends, and Political Participation." Forthcoming, <em>Journal of Conflict Resolution</em>. [<a href="#" target="_blank" rel="noopener">DOI</a>] [<a href="#" target="_blank" rel="noopener">PDF</a>]</li>
 </ol>
+  <p>Links:</p>
+<ul>
+  <li>Data and replication files</li>
+</ul>
 </details>
