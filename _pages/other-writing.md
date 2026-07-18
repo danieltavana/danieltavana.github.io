@@ -24,6 +24,7 @@ nav: false
   details[open] summary::before { content: "−"; }
   details[open] summary { margin-bottom: 0.5rem; }
   details.translation { margin-left: 1.5rem; }
+  p { text-align: justify; hyphens: auto; }
   h2 { margin-top: 2.5rem; }
   h3 { margin-top: 1.75rem; margin-bottom: 1rem; }
   .course-meta { list-style: none; padding: 0; margin: 0.5rem 0 0 0; }
@@ -38,8 +39,7 @@ nav: false
 
 <details>
 <summary>Daniel L. Tavana. 2026. <span dir="rtl" lang="ar">دراسة أميركية: هكذا "يُصنع" التعاون السياسي مع البرلمان الكويتي</span> <em>(American Study: How Political Cooperation with the Kuwaiti Parliament is "Manufactured" [Arabic])</em>. <em>Al-Seyassah</em>. [<a href="https://web.archive.org/web/20260717201423/https://alseyassah.com/article/464384/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%87%D9%83%D8%B0%D8%A7-%D9%8A%D8%B5%D9%86%D8%B9-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A/" target="_blank" rel="noopener">Link</a>] [<a href="/assets/pdf/policy_writing/2026_alseyassah.pdf" target="_blank" rel="noopener">PDF</a>]</summary>
-
-<p dir="rtl" lang="ar" style="text-align: right;">في الكويت، لا تبدأ التحالفات السياسية دائماً تحت قُبَّة عبدالله السالم، ولا تُحسم عبر الخطابات العلنية أو المواقف الأيديولوجية فقط، بل كثيراً ما تُصاغ قبل جلسات التصويت، داخل شبكة معقدة من التفاهمات السياسية والحسابات الاقتصادية وإدارة التوازنات بين الحكومة والنواب. هذه الخلاصة تطرحها دراسة أكاديمية أميركية حديثة، ترى أن العلاقة بين الحكومة ومجلس الأمة في الكويت لا يمكن قراءتها من زاوية "موالاة ومعارضة" فقط، بل بوصفها عملية تفاوض سياسي مستمرة، تُستخدم فيها الحوافز الاقتصادية والتمثيل الوزاري وأدوات الاستيعاب السياسي لبناء الدعم داخل البرلمان.</p>
+<p dir="rtl" lang="ar">في الكويت، لا تبدأ التحالفات السياسية دائماً تحت قُبَّة عبدالله السالم، ولا تُحسم عبر الخطابات العلنية أو المواقف الأيديولوجية فقط، بل كثيراً ما تُصاغ قبل جلسات التصويت، داخل شبكة معقدة من التفاهمات السياسية والحسابات الاقتصادية وإدارة التوازنات بين الحكومة والنواب. هذه الخلاصة تطرحها دراسة أكاديمية أميركية حديثة، ترى أن العلاقة بين الحكومة ومجلس الأمة في الكويت لا يمكن قراءتها من زاوية "موالاة ومعارضة" فقط، بل بوصفها عملية تفاوض سياسي مستمرة، تُستخدم فيها الحوافز الاقتصادية والتمثيل الوزاري وأدوات الاستيعاب السياسي لبناء الدعم داخل البرلمان.</p>
 </details>
 
 <details>
