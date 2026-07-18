@@ -102,7 +102,7 @@ nav: false
 
 <details>
 <summary>Ethnic Political Socialization and University Elections (AUB-CONJOINT)</summary>
-<p>This project assesses how national political parties' involvement in university student politics shapes political attitudes in non-democracies. Using an original two-wave panel survey conducted around the 2017 student elections at the American University of Beirut — including a choice-based conjoint experiment measuring support for hypothetical candidates in the 2018 Lebanese parliamentary elections — we use a difference-in-differences design to measure shifts in support for co-ethnic and co-partisan candidates. Fieldwork: September 27 to October 18, 2017.</p>
+<p>This project assesses how national political parties' involvement in university student politics shapes political attitudes in non-democracies. Using an original two-wave panel survey conducted around the 2017 student elections at the American University of Beirut — including a choice-based conjoint experiment measuring support for hypothetical candidates in the 2018 Lebanese parliamentary elections — we use a difference-in-differences design to measure shifts in support for co-ethnic and co-partisan candidates.</p>
 <p>Publications:</p>
 <ol>
   <li>Christiana Parreira, Daniel L. Tavana, and Charles Harb. 2024. "Ethnic Political Socialization and University Elections." <em>Party Politics</em> 30(3): 550-569. [<a href="https://doi.org/10.1177/13540688231166088" target="_blank" rel="noopener">DOI</a>] [<a href="/assets/pdf/2024_pp.pdf" target="_blank" rel="noopener">PDF</a>]</li>
