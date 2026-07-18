@@ -53,6 +53,11 @@ nav: false
 <p>The Iran Social Survey (ISS) is a multi-year telephone survey research project focused on the political behavior and socio-economic relations of residents of the Islamic Republic of Iran. The ISS collects data from a nationally representative probability sample of Iranians following Majles (Parliament) elections, creating a methodologically sound mapping of the country's social and political life — a project that had not existed in Iran for several decades. The ISS is a collaborative project between Kevan Harris (Department of Sociology, UCLA) and Daniel Tavana. Fieldwork: November 6 to December 29, 2016. The ISS is supported by the Swedish Foundation for Humanities and Social Sciences (Riksbankens Jubileumsfond) and the Sharmin and Bijan Mossavar-Rahmani Center for Iran and Persian Gulf Studies at Princeton University.</p>
 </details>
 
+<details>
+<summary>Regime Support and Preference Falsification in Iran</summary>
+<p>This project examines preference falsification and regime support in the Islamic Republic of Iran. Drawing on a pre-registered, nationally representative telephone survey of 1,999 Iranian adults that embeds a double list experiment, the survey estimates the gap between direct and indirect measures of trust in the authorities of the Islamic Republic. Fieldwork: February to March 2025.</p>
+</details>
+
 ### Lebanon
 
 <details>
@@ -61,7 +66,7 @@ nav: false
 </details>
 
 <details>
-<summary>The Role of Political Parties in University Socialization (AUB-CONJOINT)</summary>
+<summary>Ethnic Political Socialization and University Elections (AUB-CONJOINT)</summary>
 <p>This project assesses how national political parties' involvement in university student politics shapes political attitudes in non-democracies. Using an original two-wave panel survey conducted around the 2017 student elections at the American University of Beirut — including a choice-based conjoint experiment measuring support for hypothetical candidates in the 2018 Lebanese parliamentary elections — we use a difference-in-differences design to measure shifts in support for co-ethnic and co-partisan candidates. Fieldwork: September 27 to October 18, 2017.</p>
 </details>
 
