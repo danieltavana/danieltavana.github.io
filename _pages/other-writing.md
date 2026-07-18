@@ -49,7 +49,7 @@ nav: false
 
 <details>
 <summary>Daniel L. Tavana. 2024. <span dir="rtl" lang="fa">سياست، دموکراسی و آزادی ‌بيان در کويت</span> <em>(Politics, Democracy and Freedom of Expression in Kuwait [Farsi])</em>. <em>Aasoo</em>. [<a href="https://web.archive.org/web/20260516173704/https://www.aasoo.org/fa/articles/4904" target="_blank" rel="noopener">Link</a>]</summary>
-<p>Coming soon.</p>
+<p dir="rtl" lang="ar">در ماه مه گذشته، مشعل احمد جابر الصباح، امیر کویت، در اقدامی غیرمنتظره‌ «مجلس شورای ملی» کویت را منحل و چند بند مهم از قانون اساسی این کشور ــ از جمله لزوم برگزاری انتخابات تازه طی ۹۰ روز ــ را برای مدت نامعلومی معلق کرد. کویت دهه‌هاست که در خاورمیانه و در میان کشورهای عضو «شورای همکاری خلیج فارس» به فضای سیاسیِ بازتر، جامعه‌ی مدنی پویا و مؤثر و آزادی بیانِ نسبی شهرت دارد. اما تاکنون سه بار مجلس شورای ملیِ کویت از سوی امیر کویت منحل و نتایج یکی از چهار انتخابات اخیر این کشور نیز باطل اعلام شده است. درباره‌ی سیاست انتخاباتی، تاریخ سیاسیِ کویت بعد از استقلال، جامعه‌ی مدنی کویت، و همچنین انتخابات و فضای سیاسی این کشور در مقایسه با ایران با دکتر دنیل توانا گفت‌وگو کرده‌ایم. دنیل توانا استادیار علوم سیاسی در دانشگاه ایالتی پنسیلوانیا است و در حوزه‌ی هویت و سیاست انتخاباتی و رفتار سیاسیِ تطبیقی در کشورهای خاورمیانه تخصص دارد. او دانش‌آموخته‌ی دوره‌ی دکترای علوم سیاسی در دانشگاه پرینستون، با تمرکز بر سیاست تطبیقی در خاورمیانه، است و از سال‌ها قبل سیاست در کویت را با دقت دنبال کرده است و درباره‌ی آن پژوهش می‌کند.</p>
 </details>
 
 <details>
@@ -64,7 +64,7 @@ nav: false
 
 <details class="translation">
 <summary>Daniel L. Tavana. 2021. <span dir="rtl" lang="ar">إرحل! السياسة التنازعيّة في الكويت خلال «الربيع العربي»</span> <em>(Leave! Contentious Politics in Kuwait during the 'Arab Spring' [Arabic])</em>. Issam Fares Institute, American University of Beirut. [<a href="https://web.archive.org/web/20240820040217/https://www.aub.edu.lb/ifi/Documents/Contentious-Politics-in-Kuwait-during-the-Arab-Spring-AR.pdf" target="_blank" rel="noopener">Link</a>] [<a href="/assets/pdf/policy_writing/2021_aub_leave_ar.pdf" target="_blank" rel="noopener">PDF</a>]</summary>
-<p>Coming soon.</p>
+<p dir="rtl" lang="ar"></p>
 </details>
 
 <details>
@@ -74,7 +74,7 @@ nav: false
 
 <details class="translation">
 <summary>Daniel L. Tavana. 2021. <span dir="rtl" lang="ar">نبيها خمسة: المجتمع المدني والإصلاح الانتخابي في دولة الخليج العربي</span> <em>(Civil Society and Electoral Reform in an Arab Gulf State [Arabic])</em>. Issam Fares Institute, American University of Beirut. [<a href="https://web.archive.org/web/20240820042530/https://www.aub.edu.lb/ifi/Documents/Five-for-Kuwait-Civil-Society-and-Electoral-Reform-in-an-Arab-Gulf-State-AR.pdf" target="_blank" rel="noopener">Link</a>] [<a href="/assets/pdf/policy_writing/2021_aub_five_ar.pdf" target="_blank" rel="noopener">PDF</a>]</summary>
-<p>Coming soon.</p>
+<p dir="rtl" lang="ar"></p>
 </details>
 
 <details>
@@ -94,7 +94,7 @@ nav: false
 
 <details class="translation">
 <summary>Daniel L. Tavana and Christiana Parreira. 2019. <span dir="rtl" lang="ar">انتخابات لبنان النيابية: تدابير جديدة واستمرار الوضع الراهن</span> <em>(Lebanon's 2018 Election: New Measures and the Resilience of the Status Quo [Arabic])</em>. Centre for Social Sciences Research and Action. [<a href="https://web.archive.org/web/20260717182752/https://www.socialsciences-centre.org/arabic/research/policy-briefs/resource/lebanone28099s-2018-election-new-measures-and-resilience-status-quo" target="_blank" rel="noopener">Link</a>] [<a href="/assets/pdf/policy_writing/2019_cessra_ar.pdf" target="_blank" rel="noopener">PDF</a>]</summary>
-<p>Coming soon.</p>
+<p dir="rtl" lang="ar"></p>
 </details>
 
 <details>
@@ -109,7 +109,7 @@ nav: false
 
 <details class="translation">
 <summary>Kevan Harris and Daniel L. Tavana. 2017. <span dir="rtl" lang="fa">رفتار انتخاباتی و بسيج سياسی در ايران: نتايج پيمايش اجتماعی ايران</span> <em>(Voter Behavior and Political Mobilization in Iran: Findings from the Iran Social Survey [Farsi])</em>. European Middle East Research Group (EMERG). [<a href="https://web.archive.org/web/20210324121238/https://emerg.expert/publications/report-voter-behaviour-and-political-mobilization-in-iran/" target="_blank" rel="noopener">Link</a>] [<a href="/assets/pdf/policy_writing/2017_emerg_fa.pdf" target="_blank" rel="noopener">PDF</a>]</summary>
-<p>Coming soon.</p>
+<p dir="rtl" lang="ar"></p>
 </details>
 
 <details>
@@ -139,7 +139,7 @@ nav: false
 
 <details class="translation">
 <summary>Daniel L. Tavana and Nada Zohdy. 2014. <span dir="rtl" lang="ar">دليل إعداد أوراق السياسيات العامة</span> <em>(A Guide to Policy Writing [Arabic])</em>. Project on Middle East Democracy. [<a href="https://web.archive.org/web/20171130062917/http://pomed.org/pomed-publications/arabic-policy-writing-guide/" target="_blank" rel="noopener">Link</a>] [<a href="/assets/pdf/policy_writing/2014_pomed_policy_guide_ar.pdf" target="_blank" rel="noopener">PDF</a>]</summary>
-<p>Coming soon.</p>
+<p dir="rtl" lang="ar"></p>
 </details>
 
 <details>
