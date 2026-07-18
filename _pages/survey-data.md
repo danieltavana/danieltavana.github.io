@@ -52,6 +52,7 @@ nav: false
 <p>Links:</p>
 <ul>
   <li><a href="https://doi.org/10.7910/DVN/OFK4L6" target="_blank" rel="noopener">Data and replication files</a></li>
+  <li><a href="/assets/pdf/survey_instruments/sisi_sciat_instrument.pdf" target="_blank" rel="noopener">Survey instrument</a></li>
 </ul>
 </details>
 
