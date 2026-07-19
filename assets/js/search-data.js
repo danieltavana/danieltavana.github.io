@@ -91,7 +91,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/tavana_cv_20260701.pdf", "_blank");
+          window.open("/assets/pdf/tavana_cv_20260717.pdf", "_blank");
         },
       },{
         id: 'social-email',
