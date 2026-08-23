@@ -1,17 +1,17 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-08-10'
 papers:
   j2a1_doAAAAJ:0EnyYjriUFMC:
     citations: 2
     title: All in the family? Political socialization and legacies of repression
     year: '2024'
   j2a1_doAAAAJ:2osOgNQ5qMEC:
-    citations: 35
+    citations: 36
     title: Party proliferation and electoral transition in post-Mubarak Egypt
-    year: '2013'
+    year: '2011'
   j2a1_doAAAAJ:3fE2CSJIrl8C:
-    citations: 5
-    title: 'Legislative Cooptation in Authoritarian Regimes: Policy Cooperation in the Kuwait National Assembly'
+    citations: 7
+    title: 'Legislative cooptation in authoritarian regimes: Policy cooperation in the Kuwait National Assembly'
     year: '2025'
   j2a1_doAAAAJ:8k81kl-MbHgC:
     citations: 1
@@ -21,24 +21,32 @@ papers:
     citations: 2
     title: "The Future of Egypt\u2019s Electoral Law"
     year: '2012'
+  j2a1_doAAAAJ:KlAtU1dfN6UC:
+    citations: 0
+    title: Who Overreports? Regime Support and Preference Falsification in Iran
+    year: '2026'
   j2a1_doAAAAJ:MXK_kJrjxJIC:
-    citations: 5
+    citations: 6
     title: 'Endogenous opposition: Identity and ideology in Kuwaiti electoral politics'
     year: '2026'
   j2a1_doAAAAJ:Se3iqnhoufwC:
-    citations: 8
+    citations: 10
     title: Ethnic political socialization and university elections
     year: '2024'
   j2a1_doAAAAJ:Tyk-4Ss8FVUC:
-    citations: 8
+    citations: 9
     title: "The evolution of the Kuwaiti \u2018opposition\u2019: electoral politics after the Arab spring"
     year: '2018'
+  j2a1_doAAAAJ:ULOm3_A8WrAC:
+    citations: 5
+    title: "Lebanon\u2019s 2018 Election: New Measures and the Resilience of the Status Quo"
+    year: '2019'
   j2a1_doAAAAJ:UeHWp8X0CEIC:
     citations: 5
     title: 'Egypt''s Parliamentary Elections: The Political Implications of Electoral Transition'
     year: '2011'
   j2a1_doAAAAJ:W7OEmFMy1HYC:
-    citations: 13
+    citations: 11
     title: Tunisia's Parliamentary and Presidential Elections
     year: '2014'
   j2a1_doAAAAJ:WF5omc3nYNoC:
@@ -47,12 +55,20 @@ papers:
     year: '2012'
   j2a1_doAAAAJ:Y0pCki6q_DkC:
     citations: 3
-    title: Pluralism and Inclusion in Post-2011 Kuwait
+    title: Pluralism and inclusion in post-2011 Kuwait
     year: '2018'
+  j2a1_doAAAAJ:YOwf2qJgpHMC:
+    citations: 6
+    title: Egypt Five Years After the Uprisings
+    year: '2017'
   j2a1_doAAAAJ:YsMSGLbcyi4C:
     citations: 5
     title: University Elections and Political Socialization in the Developing World
     year: '2019'
+  j2a1_doAAAAJ:Zph67rFs4hoC:
+    citations: 7
+    title: 'Voter behavior and political mobilization in Iran: Findings from the Iran social survey'
+    year: '2018'
   j2a1_doAAAAJ:_FxGoFyzp5QC:
     citations: 0
     title: Arab Civil Society Actors and their Quest to Influence Policy-Making
@@ -70,7 +86,7 @@ papers:
     title: "From protest to parliament: Lebanon\u2019s October revolution and the rise of movement parties"
     year: '2025'
   j2a1_doAAAAJ:qjMakFHDy7sC:
-    citations: 60
+    citations: 64
     title: Implicit attitudes toward an authoritarian regime
     year: '2019'
   j2a1_doAAAAJ:roLk4NBRz8UC:
@@ -82,6 +98,6 @@ papers:
     title: 'The Origins of Opposition: Elections, Identity, and Order in the Middle East'
     year: '2021'
   j2a1_doAAAAJ:zYLM7Y9cAGgC:
-    citations: 4
+    citations: 5
     title: 'US Security assistance to Egypt: military aid and legislative conditionality'
     year: '2015'
