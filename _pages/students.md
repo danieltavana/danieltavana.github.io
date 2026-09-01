@@ -78,16 +78,6 @@ nav_order: 5
 </div>
 
 <div class="student">
-  <div class="student-photo"><img src="/assets/img/students/fong.png" alt="Gary Fong"></div>
-  <div class="student-info">
-    <p class="header"><strong>Gary Fong</strong></p>
-    <p>PhD in Political Science and Social Data Analytics</p>
-    <p><a href="https://sap98fcs.github.io/" target="_blank" rel="noopener">https://sap98fcs.github.io/</a></p>
-    <p>Authoritarian politics, political communication, contentious politics</p>
-  </div>
-</div>
-
-<div class="student">
   <div class="student-photo"><img src="/assets/img/students/huang.png" alt="YiMin Huang"></div>
   <div class="student-info">
     <p class="header"><strong>YiMin Huang</strong></p>
@@ -124,6 +114,16 @@ nav_order: 5
 <div class="student-list">
 
 <div class="student">
+  <div class="student-photo"><img src="/assets/img/students/fong.png" alt="Gary Fong"></div>
+  <div class="student-info">
+    <p class="header"><strong>Gary Fong</strong></p>
+    <p>PhD in Political Science and Social Data Analytics</p>
+    <p><a href="https://sap98fcs.github.io/" target="_blank" rel="noopener">https://sap98fcs.github.io/</a></p>
+    <p>Authoritarian politics, political communication, contentious politics</p>
+  </div>
+</div>
+
+<div class="student">
   <div class="student-photo"><img src="/assets/img/students/kara.png" alt="Muhammad Kara"></div>
   <div class="student-info">
     <p class="header"><strong>Muhammad Kara</strong></p>
@@ -144,9 +144,9 @@ nav_order: 5
 </div>
 
 <div class="student">
-  <div class="student-photo"><img src="/assets/img/students/walsh.png" alt="Lindsay Walsh"></div>
+  <div class="student-photo"><img src="/assets/img/students/snyder.png" alt="Lindsay Snyder"></div>
   <div class="student-info">
-    <p class="header"><strong>Lindsay Walsh</strong></p>
+    <p class="header"><strong>Lindsay Snyder</strong></p>
     <p>PhD in Political Science and Women's, Gender, and Sexuality Studies</p>
     <p><a href="https://saralindsay.org" target="_blank" rel="noopener">https://saralindsay.org/</a></p>
     <p>Gender and politics, political ambition, sex/gender quotas, electoral systems, representation</p>
