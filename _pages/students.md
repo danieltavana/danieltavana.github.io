@@ -107,6 +107,16 @@ nav_order: 5
   </div>
 </div>
 
+<div class="student">
+  <div class="student-photo"><img src="/assets/img/students/zhang.png" alt="Lesley Zhang"></div>
+  <div class="student-info">
+    <p class="header"><strong>Lesley Zhang</strong></p>
+    <p>PhD in Political Science and Social Data Analytics</p>
+    <p><a href="https://lesleyzhanggg.github.io/" target="_blank" rel="noopener">https://lesleyzhanggg.github.io/</a></p>
+    <p>Repression, social movements, authoritarian politics, political communication</p>
+  </div>
+</div>
+
 </div>
 
 ### Former PhD Students
