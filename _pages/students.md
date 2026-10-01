@@ -98,6 +98,16 @@ nav_order: 5
 </div>
 
 <div class="student">
+  <div class="student-photo"><img src="/assets/img/students/ulutas.png" alt="Mete Ulutas"></div>
+  <div class="student-info">
+    <p class="header"><strong>Mete Ulutas</strong></p>
+    <p>PhD in History</p>
+    <p><a href="https://history.la.psu.edu/directory/mete-ulutas/" target="_blank" rel="noopener">https://history.la.psu.edu/directory/mete-ulutas/</a></p>
+    <p>Political incarceration, carceral spaces, Turkey, historical ethnography</p>
+  </div>
+</div>
+
+<div class="student">
   <div class="student-photo"><img src="/assets/img/students/zhang.png" alt="Lesley Zhang"></div>
   <div class="student-info">
     <p class="header"><strong>Lesley Zhang</strong></p>
