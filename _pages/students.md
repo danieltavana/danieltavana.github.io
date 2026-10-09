@@ -88,6 +88,16 @@ nav_order: 5
 </div>
 
 <div class="student">
+  <div class="student-photo"><img src="/assets/img/students/shafi.png" alt="Yasin Shafi"></div>
+  <div class="student-info">
+    <p class="header"><strong>Yasin Shafi</strong></p>
+    <p>PhD in Political Science and Social Data Analytics</p>
+    <p><a href="https://yasinshafi.com/" target="_blank" rel="noopener">https://yasinshafi.com/</a></p>
+    <p>Dictatorships, opposition politics, political parties, social movements, comparative political economy</p>
+  </div>
+</div>
+
+<div class="student">
   <div class="student-photo"><img src="/assets/img/students/siamionau.png" alt="Viktar Siamionau"></div>
   <div class="student-info">
     <p class="header"><strong>Viktar Siamionau</strong></p>
