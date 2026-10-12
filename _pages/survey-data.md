@@ -120,10 +120,10 @@ nav: false
 <p>This original, nationally representative survey of 1,200 Tunisian adults, fielded by One-to-One Research and Polling, examines how exposure to state repression shapes political participation. It measures respondents' direct experiences of repression under the Bourguiba and Ben Ali dictatorships (1956–2011), as well as indirect exposure through family, friends, and community members, alongside measures of political behavior, including voter turnout and protest participation, and the frequency of political discussion within these networks. To isolate the effects of non-kin socialization from family-level influences, the primary sample is supplemented by a targeted secondary sample of 175 sibling pairs drawn from the primary respondents.</p>
 <p>Publications:</p>
 <ol>
-  <li>Alexandra Domike Blackman, Nicholas J. Lotito, Elizabeth R. Nugent, and Daniel L. Tavana. 2026. "The Social Legacies of Repression: Family, Friends, and Political Participation." Forthcoming, <em>Journal of Conflict Resolution</em>. [DOI] [PDF]</li>
+  <li>Alexandra Domike Blackman, Nicholas J. Lotito, Elizabeth R. Nugent, and Daniel L. Tavana. 2026. "The Social Legacies of Repression: Family, Friends, and Political Participation." <em>Journal of Conflict Resolution</em>. [<a href="https://doi.org/10.1177/00220027261493653" target="_blank" rel="noopener">DOI</a>] [<a href="/assets/pdf/2026_jcr.pdf" target="_blank" rel="noopener">PDF</a>]</li>
 </ol>
   <p>Links:</p>
 <ul>
-  <li>Data and replication files</li>
+  <li><a href="https://osf.io/sd7q2/" target="_blank" rel="noopener">Data and replication files</a></li>
 </ul>
 </details>
